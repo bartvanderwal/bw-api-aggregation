@@ -1,0 +1,29 @@
+{
+    "code": 200,
+    "message": "Usage of International Triathlon Union images are subject to agreement of image terms and conditions found here: http://media.triathlon.org/terms_and_conditions",
+    "status": "success",
+    "total": 1,
+    "per_page": 10,
+    "current_page": 1,
+    "last_page": 0,
+    "next_page_url": null,
+    "prev_page_url": null,
+    "from": null,
+    "to": null,
+    "data": [
+        {
+            "event_id":109656,
+            "image_id":68443,
+            "image_filename":"discoveryelitetriworlcupcpt17_beadle-812.jpg",
+            "image_filesize":"1.44MB",
+            "image_extension":"jpg",
+            "image_width":2400,
+            "image_height":1600,
+            "image_date":"2017-02-12T17:06:06Z",
+            "image_credit":"International Triathlon Union / Greg Beadle",
+            "image_url":"https://www.triathlon.org/uploads/webgalleries/109656/discoveryelitetriworlcupcpt17_beadle-812.jpg",
+            "thumbnail":"https://www.triathlon.org/uploads/webgalleries/109656/discoveryelitetriworlcupcpt17_beadle-812__medium.jpg"
+        }
+    ]
+}
+

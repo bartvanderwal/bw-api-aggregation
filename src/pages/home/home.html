@@ -1,14 +1,22 @@
 <ion-header>
   <ion-navbar>
     <ion-title>
-      Ionic Blank
+      Tri events
     </ion-title>
   </ion-navbar>
 </ion-header>
 
-<ion-content padding>
-  The world is your oyster.
-  <p>
-    If you get lost, the <a href="http://ionicframework.com/docs/v2">docs</a> will be your guide.
-  </p>
+<ion-content padding no-bounce>
+  <h1>Triathlon.org events</h1>
+  <!-- <h2>Example</h2>
+  <ul>
+    <li *ngFor="let example of examples">{{ example }}</li>
+  </ul> -->
+
+  <h2>Events</h2>
+  <p>Total: <span style="color: darkblue;">{{ total }}</span>.</p>
+  <ul>
+    <li *ngFor="let event of events">{{ event.event_id }}</li>
+  </ul>
+  <!-- <pre>events: {{ events | json }}</pre> -->
 </ion-content>

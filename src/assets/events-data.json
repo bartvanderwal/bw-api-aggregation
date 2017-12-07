@@ -1,0 +1,3850 @@
+{
+    "code": 200,
+    "_query": "https://api.triathlon.org/v1/events?start_date=2017-01-01&end_date=2018-01-01&per_page=100",
+    "status": "success",
+    "total": 223,
+    "per_page": "100",
+    "current_page": 1,
+    "last_page": 3,
+    "next_page_url": "https://api.triathlon.org/v1/events?per_page=100&start_date=2017-01-01&end_date=2018-01-01&page=2",
+    "prev_page_url": null,
+    "from": 1,
+    "to": 100,
+    "data": [
+        {
+            "event_id": 121492,
+            "event_title": "2016 SGP Triathlon National Championships",
+            "event_slug": "2016_sgp_triathlon_national_championships",
+            "event_edit_date": "2017-01-14T00:00:00+00:00",
+            "event_venue": "East Coast Park",
+            "event_country": "Singapore",
+            "event_latitude": 1.300784,
+            "event_longitude": 103.912187,
+            "event_date": "2017-01-14",
+            "event_finish_date": "2017-01-14",
+            "event_country_isoa2": "SG",
+            "event_country_noc": "SGP",
+            "event_region_id": 13,
+            "event_country_id": 264,
+            "event_region_name": "Asia",
+            "event_categories": [],
+            "event_specifications": [
+                {
+                    "cat_name": "Triathlon",
+                    "cat_id": 357,
+                    "cat_parent_id": null
+                },
+                {
+                    "cat_name": "Standard",
+                    "cat_id": 377,
+                    "cat_parent_id": 357
+                },
+                {
+                    "cat_name": "Aquabike",
+                    "cat_id": 453,
+                    "cat_parent_id": null
+                }
+            ],
+            "event_flag": "https://f9ca11ef49c28681fc01-0acbf57e00c47a50e70a1acb89e86c89.ssl.cf1.rackcdn.com/images/icons/sg.png",
+            "event_listing": "https://www.triathlon.org/events/event/2016_sgp_triathlon_national_championships",
+            "event_api_listing": "https://api.triathlon.org/v1/v1/events/121492"
+        },
+        {
+            "event_id": 109703,
+            "event_title": "2017 Gradistei ETU Winter Triathlon European Cup",
+            "event_slug": "2017_gradistei_etu_winter_triathlon_european_cup",
+            "event_edit_date": "2017-11-16T13:50:17+00:00",
+            "event_venue": "Gradistei",
+            "event_country": "Romania",
+            "event_latitude": 45.40411,
+            "event_longitude": 17.94257,
+            "event_date": "2017-01-21",
+            "event_finish_date": "2017-01-22",
+            "event_country_isoa2": "RO",
+            "event_country_noc": "ROU",
+            "event_region_id": 10,
+            "event_country_id": 250,
+            "event_region_name": "Europe",
+            "event_categories": [
+                {
+                    "cat_name": "Continental Cup",
+                    "cat_id": 341,
+                    "cat_parent_id": null
+                }
+            ],
+            "event_specifications": [
+                {
+                    "cat_name": "Winter Triathlon",
+                    "cat_id": 358,
+                    "cat_parent_id": null
+                },
+                {
+                    "cat_name": "Sprint",
+                    "cat_id": 382,
+                    "cat_parent_id": 358
+                }
+            ],
+            "event_flag": "https://f9ca11ef49c28681fc01-0acbf57e00c47a50e70a1acb89e86c89.ssl.cf1.rackcdn.com/images/icons/ro.png",
+            "event_listing": "https://www.triathlon.org/events/event/2017_gradistei_etu_winter_triathlon_european_cup",
+            "event_api_listing": "https://api.triathlon.org/v1/v1/events/109703"
+        },
+        {
+            "event_id": 110649,
+            "event_title": "2017 La Paz (ARG) CAMTRI Triathlon American Cup",
+            "event_slug": "2017_la_paz_arg_camtri_triathlon_american_cup",
+            "event_edit_date": "2017-03-10T09:10:57+00:00",
+            "event_venue": "La Paz",
+            "event_country": "Argentina",
+            "event_latitude": -16.48969,
+            "event_longitude": -68.11929,
+            "event_date": "2017-01-22",
+            "event_finish_date": "2017-01-22",
+            "event_country_isoa2": "AR",
+            "event_country_noc": "ARG",
+            "event_region_id": 11,
+            "event_country_id": 108,
+            "event_region_name": "Americas",
+            "event_categories": [
+                {
+                    "cat_name": "Continental Cup",
+                    "cat_id": 341,
+                    "cat_parent_id": null
+                }
+            ],
+            "event_specifications": [
+                {
+                    "cat_name": "Triathlon",
+                    "cat_id": 357,
+                    "cat_parent_id": null
+                },
+                {
+                    "cat_name": "Standard",
+                    "cat_id": 377,
+                    "cat_parent_id": 357
+                }
+            ],
+            "event_flag": "https://f9ca11ef49c28681fc01-0acbf57e00c47a50e70a1acb89e86c89.ssl.cf1.rackcdn.com/images/icons/ar.png",
+            "event_listing": "https://www.triathlon.org/events/event/2017_la_paz_arg_camtri_triathlon_american_cup",
+            "event_api_listing": "https://api.triathlon.org/v1/v1/events/110649"
+        },
+        {
+            "event_id": 122134,
+            "event_title": "2017 ROU Winter Triathlon National Championships",
+            "event_slug": "2017_rou_winter_triathlon_national_championships",
+            "event_edit_date": "2017-01-22T00:00:00+00:00",
+            "event_venue": "Gradistei",
+            "event_country": "Romania",
+            "event_latitude": 44.133333,
+            "event_longitude": 26.75,
+            "event_date": "2017-01-22",
+            "event_finish_date": "2017-01-22",
+            "event_country_isoa2": "RO",
+            "event_country_noc": "ROU",
+            "event_region_id": 10,
+            "event_country_id": 250,
+            "event_region_name": "Europe",
+            "event_categories": [],
+            "event_specifications": [
+                {
+                    "cat_name": "Winter Triathlon",
+                    "cat_id": 358,
+                    "cat_parent_id": null
+                },
+                {
+                    "cat_name": "Sprint",
+                    "cat_id": 382,
+                    "cat_parent_id": 358
+                }
+            ],
+            "event_flag": "https://f9ca11ef49c28681fc01-0acbf57e00c47a50e70a1acb89e86c89.ssl.cf1.rackcdn.com/images/icons/ro.png",
+            "event_listing": "https://www.triathlon.org/events/event/2017_rou_winter_triathlon_national_championships",
+            "event_api_listing": "https://api.triathlon.org/v1/v1/events/122134"
+        },
+        {
+            "event_id": 109694,
+            "event_title": "2017 Otepää ETU Winter Triathlon European Championships",
+            "event_slug": "2017_otepaeae_etu_winter_triathlon_european_championships",
+            "event_edit_date": "2017-02-06T11:08:14+00:00",
+            "event_venue": "Otepää",
+            "event_country": "Estonia",
+            "event_latitude": 58.05805,
+            "event_longitude": 26.49475,
+            "event_date": "2017-01-28",
+            "event_finish_date": "2017-01-28",
+            "event_country_isoa2": "EE",
+            "event_country_noc": "EST",
+            "event_region_id": 10,
+            "event_country_id": 162,
+            "event_region_name": "Europe",
+            "event_categories": [
+                {
+                    "cat_name": "Continental Championship",
+                    "cat_id": 340,
+                    "cat_parent_id": null
+                }
+            ],
+            "event_specifications": [
+                {
+                    "cat_name": "Winter Triathlon",
+                    "cat_id": 358,
+                    "cat_parent_id": null
+                }
+            ],
+            "event_flag": "https://f9ca11ef49c28681fc01-0acbf57e00c47a50e70a1acb89e86c89.ssl.cf1.rackcdn.com/images/icons/ee.png",
+            "event_listing": "https://www.triathlon.org/events/event/2017_otepaeae_etu_winter_triathlon_european_championships",
+            "event_api_listing": "https://api.triathlon.org/v1/v1/events/109694"
+        },
+        {
+            "event_id": 109656,
+            "event_title": "2017 Cape Town ITU Triathlon World Cup",
+            "event_slug": "2017_cape_town_itu_triathlon_world_cup",
+            "event_edit_date": "2017-03-10T09:10:12+00:00",
+            "event_venue": "Cape Town",
+            "event_country": "South Africa",
+            "event_latitude": -33.92487,
+            "event_longitude": 18.42406,
+            "event_date": "2017-02-11",
+            "event_finish_date": "2017-02-11",
+            "event_country_isoa2": "ZA",
+            "event_country_noc": "RSA",
+            "event_region_id": 12,
+            "event_country_id": 269,
+            "event_region_name": "Africa",
+            "event_categories": [
+                {
+                    "cat_name": "World Cup",
+                    "cat_id": 349,
+                    "cat_parent_id": null
+                }
+            ],
+            "event_specifications": [
+                {
+                    "cat_name": "Triathlon",
+                    "cat_id": 357,
+                    "cat_parent_id": null
+                },
+                {
+                    "cat_name": "Sprint",
+                    "cat_id": 376,
+                    "cat_parent_id": 357
+                }
+            ],
+            "event_flag": "https://f9ca11ef49c28681fc01-0acbf57e00c47a50e70a1acb89e86c89.ssl.cf1.rackcdn.com/images/icons/za.png",
+            "event_listing": "https://www.triathlon.org/events/event/2017_cape_town_itu_triathlon_world_cup",
+            "event_api_listing": "https://api.triathlon.org/v1/v1/events/109656"
+        },
+        {
+            "event_id": 111121,
+            "event_title": "2017 Kinloch OTU Sprint Triathlon Oceania Championships",
+            "event_slug": "2017_kinloch_otu_sprint_triathlon_oceania_championships",
+            "event_edit_date": "2017-03-10T09:09:39+00:00",
+            "event_venue": "Kinloch, Taupo ",
+            "event_country": "New Zealand",
+            "event_latitude": -38.65966,
+            "event_longitude": 175.92276,
+            "event_date": "2017-02-12",
+            "event_finish_date": "2017-02-12",
+            "event_country_isoa2": "NZ",
+            "event_country_noc": "NZL",
+            "event_region_id": 14,
+            "event_country_id": 232,
+            "event_region_name": "Oceania",
+            "event_categories": [
+                {
+                    "cat_name": "Continental Championship",
+                    "cat_id": 340,
+                    "cat_parent_id": null
+                }
+            ],
+            "event_specifications": [
+                {
+                    "cat_name": "Triathlon",
+                    "cat_id": 357,
+                    "cat_parent_id": null
+                },
+                {
+                    "cat_name": "Sprint",
+                    "cat_id": 376,
+                    "cat_parent_id": 357
+                }
+            ],
+            "event_flag": "https://f9ca11ef49c28681fc01-0acbf57e00c47a50e70a1acb89e86c89.ssl.cf1.rackcdn.com/images/icons/nz.png",
+            "event_listing": "https://www.triathlon.org/events/event/2017_kinloch_otu_sprint_triathlon_oceania_championships",
+            "event_api_listing": "https://api.triathlon.org/v1/v1/events/111121"
+        },
+        {
+            "event_id": 112763,
+            "event_title": "2017 GRE Sprint Duathlon National Championships",
+            "event_slug": "2017_gre_sprint_duathlon_national_championships",
+            "event_edit_date": "2017-02-27T14:08:03+00:00",
+            "event_venue": "Loutraki Korinthos",
+            "event_country": "Greece",
+            "event_latitude": 37.9759,
+            "event_longitude": 22.97746,
+            "event_date": "2017-02-12",
+            "event_finish_date": "2017-02-12",
+            "event_country_isoa2": "GR",
+            "event_country_noc": "GRE",
+            "event_region_id": 10,
+            "event_country_id": 172,
+            "event_region_name": "Europe",
+            "event_categories": [],
+            "event_specifications": [
+                {
+                    "cat_name": "Duathlon",
+                    "cat_id": 355,
+                    "cat_parent_id": null
+                },
+                {
+                    "cat_name": "Sprint",
+                    "cat_id": 367,
+                    "cat_parent_id": 355
+                }
+            ],
+            "event_flag": "https://f9ca11ef49c28681fc01-0acbf57e00c47a50e70a1acb89e86c89.ssl.cf1.rackcdn.com/images/icons/gr.png",
+            "event_listing": "https://www.triathlon.org/events/event/2017_gre_sprint_duathlon_national_championships",
+            "event_api_listing": "https://api.triathlon.org/v1/v1/events/112763"
+        },
+        {
+            "event_id": 110651,
+            "event_title": "2017 Habana CAMTRI Middle Distance Triathlon Iberoamerican Championships",
+            "event_slug": "2017_habana_camtri_middle_distance_triathlon_iberoamerican_championships",
+            "event_edit_date": "2017-11-06T14:04:10+00:00",
+            "event_venue": "Habana",
+            "event_country": "Cuba",
+            "event_latitude": 23.11359,
+            "event_longitude": -82.3666,
+            "event_date": "2017-02-25",
+            "event_finish_date": "2017-02-25",
+            "event_country_isoa2": "CU",
+            "event_country_noc": "CUB",
+            "event_region_id": 11,
+            "event_country_id": 150,
+            "event_region_name": "Americas",
+            "event_categories": [
+                {
+                    "cat_name": "Regional Championships",
+                    "cat_id": 347,
+                    "cat_parent_id": null
+                }
+            ],
+            "event_specifications": [
+                {
+                    "cat_name": "Long Distance Triathlon",
+                    "cat_id": 356,
+                    "cat_parent_id": null
+                },
+                {
+                    "cat_name": "Middle Distance",
+                    "cat_id": 373,
+                    "cat_parent_id": 356
+                }
+            ],
+            "event_flag": "https://f9ca11ef49c28681fc01-0acbf57e00c47a50e70a1acb89e86c89.ssl.cf1.rackcdn.com/images/icons/cu.png",
+            "event_listing": "https://www.triathlon.org/events/event/2017_habana_camtri_middle_distance_triathlon_iberoamerican_championships",
+            "event_api_listing": "https://api.triathlon.org/v1/v1/events/110651"
+        },
+        {
+            "event_id": 110650,
+            "event_title": "2017 Habana CAMTRI Sprint Triathlon American Cup",
+            "event_slug": "2017_habana_camtri_sprint_triathlon_american_cup",
+            "event_edit_date": "2017-03-10T09:08:38+00:00",
+            "event_venue": "Habana",
+            "event_country": "Cuba",
+            "event_latitude": 23.11359,
+            "event_longitude": -82.3666,
+            "event_date": "2017-02-26",
+            "event_finish_date": "2017-02-26",
+            "event_country_isoa2": "CU",
+            "event_country_noc": "CUB",
+            "event_region_id": 11,
+            "event_country_id": 150,
+            "event_region_name": "Americas",
+            "event_categories": [
+                {
+                    "cat_name": "Continental Cup",
+                    "cat_id": 341,
+                    "cat_parent_id": null
+                }
+            ],
+            "event_specifications": [
+                {
+                    "cat_name": "Triathlon",
+                    "cat_id": 357,
+                    "cat_parent_id": null
+                },
+                {
+                    "cat_name": "Sprint",
+                    "cat_id": 376,
+                    "cat_parent_id": 357
+                }
+            ],
+            "event_flag": "https://f9ca11ef49c28681fc01-0acbf57e00c47a50e70a1acb89e86c89.ssl.cf1.rackcdn.com/images/icons/cu.png",
+            "event_listing": "https://www.triathlon.org/events/event/2017_habana_camtri_sprint_triathlon_american_cup",
+            "event_api_listing": "https://api.triathlon.org/v1/v1/events/110650"
+        },
+        {
+            "event_id": 111532,
+            "event_title": "2017 Québec ITU S3 Winter Triathlon World Cup",
+            "event_slug": "2017_quebec_itu_s3_winter_triathlon_world_cup",
+            "event_edit_date": "2017-11-06T11:05:41+00:00",
+            "event_venue": "Québec",
+            "event_country": "Canada",
+            "event_latitude": 46.81388,
+            "event_longitude": -71.20798,
+            "event_date": "2017-02-26",
+            "event_finish_date": "2017-02-26",
+            "event_country_isoa2": "CA",
+            "event_country_noc": "CAN",
+            "event_region_id": 11,
+            "event_country_id": 135,
+            "event_region_name": "Americas",
+            "event_categories": [
+                {
+                    "cat_name": "World Cup",
+                    "cat_id": 349,
+                    "cat_parent_id": null
+                }
+            ],
+            "event_specifications": [
+                {
+                    "cat_name": "Winter Triathlon",
+                    "cat_id": 358,
+                    "cat_parent_id": null
+                },
+                {
+                    "cat_name": "S3",
+                    "cat_id": 475,
+                    "cat_parent_id": 358
+                }
+            ],
+            "event_flag": "https://f9ca11ef49c28681fc01-0acbf57e00c47a50e70a1acb89e86c89.ssl.cf1.rackcdn.com/images/icons/ca.png",
+            "event_listing": "https://www.triathlon.org/events/event/2017_quebec_itu_s3_winter_triathlon_world_cup",
+            "event_api_listing": "https://api.triathlon.org/v1/v1/events/111532"
+        },
+        {
+            "event_id": 107158,
+            "event_title": "2017 ITU World Triathlon Abu Dhabi",
+            "event_slug": "2017_itu_world_triathlon_abu_dhabi",
+            "event_edit_date": "2017-03-10T09:07:18+00:00",
+            "event_venue": "Abu Dhabi",
+            "event_country": "United Arab Emirates",
+            "event_latitude": 24.29917,
+            "event_longitude": 54.69728,
+            "event_date": "2017-03-03",
+            "event_finish_date": "2017-03-04",
+            "event_country_isoa2": "AE",
+            "event_country_noc": "UAE",
+            "event_region_id": 13,
+            "event_country_id": 291,
+            "event_region_name": "Asia",
+            "event_categories": [
+                {
+                    "cat_name": "World Triathlon Series",
+                    "cat_id": 351,
+                    "cat_parent_id": null
+                }
+            ],
+            "event_specifications": [
+                {
+                    "cat_name": "Triathlon",
+                    "cat_id": 357,
+                    "cat_parent_id": null
+                },
+                {
+                    "cat_name": "Standard",
+                    "cat_id": 377,
+                    "cat_parent_id": 357
+                }
+            ],
+            "event_flag": "https://f9ca11ef49c28681fc01-0acbf57e00c47a50e70a1acb89e86c89.ssl.cf1.rackcdn.com/images/icons/ae.png",
+            "event_listing": "https://www.triathlon.org/events/event/2017_itu_world_triathlon_abu_dhabi",
+            "event_api_listing": "https://api.triathlon.org/v1/v1/events/107158"
+        },
+        {
+            "event_id": 119214,
+            "event_title": "2017 IRI Triathlon National Championships",
+            "event_slug": "2017_iri_triathlon_national_championships",
+            "event_edit_date": "2017-08-11T13:15:21+00:00",
+            "event_venue": "Qeshm Island",
+            "event_country": "Iran",
+            "event_latitude": 26.81187,
+            "event_longitude": 55.89132,
+            "event_date": "2017-03-03",
+            "event_finish_date": "2017-03-03",
+            "event_country_isoa2": "IR",
+            "event_country_noc": "IRI",
+            "event_region_id": 13,
+            "event_country_id": 186,
+            "event_region_name": "Asia",
+            "event_categories": [],
+            "event_specifications": [
+                {
+                    "cat_name": "Triathlon",
+                    "cat_id": 357,
+                    "cat_parent_id": null
+                },
+                {
+                    "cat_name": "Sprint",
+                    "cat_id": 376,
+                    "cat_parent_id": 357
+                },
+                {
+                    "cat_name": "Standard",
+                    "cat_id": 377,
+                    "cat_parent_id": 357
+                }
+            ],
+            "event_flag": "https://f9ca11ef49c28681fc01-0acbf57e00c47a50e70a1acb89e86c89.ssl.cf1.rackcdn.com/images/icons/ir.png",
+            "event_listing": "https://www.triathlon.org/events/event/2017_iri_triathlon_national_championships",
+            "event_api_listing": "https://api.triathlon.org/v1/v1/events/119214"
+        },
+        {
+            "event_id": 110653,
+            "event_title": "2017 Playa Hermosa CAMTRI Triathlon Junior Central American and Caribbean Championships ",
+            "event_slug": "2017_playa_hermosa_camtri_triathlon_junior_central_american_and_caribbean_c",
+            "event_edit_date": "2017-03-06T07:48:22+00:00",
+            "event_venue": "Playa Hermosa ",
+            "event_country": "Costa Rica",
+            "event_latitude": 10.57047,
+            "event_longitude": -85.67688,
+            "event_date": "2017-03-04",
+            "event_finish_date": "2017-03-04",
+            "event_country_isoa2": "CR",
+            "event_country_noc": "CRC",
+            "event_region_id": 11,
+            "event_country_id": 147,
+            "event_region_name": "Americas",
+            "event_categories": [
+                {
+                    "cat_name": "Regional Championships",
+                    "cat_id": 347,
+                    "cat_parent_id": null
+                }
+            ],
+            "event_specifications": [
+                {
+                    "cat_name": "Triathlon",
+                    "cat_id": 357,
+                    "cat_parent_id": null
+                },
+                {
+                    "cat_name": "Sprint",
+                    "cat_id": 376,
+                    "cat_parent_id": 357
+                }
+            ],
+            "event_flag": "https://f9ca11ef49c28681fc01-0acbf57e00c47a50e70a1acb89e86c89.ssl.cf1.rackcdn.com/images/icons/cr.png",
+            "event_listing": "https://www.triathlon.org/events/event/2017_playa_hermosa_camtri_triathlon_junior_central_american_and_caribbean_c",
+            "event_api_listing": "https://api.triathlon.org/v1/v1/events/110653"
+        },
+        {
+            "event_id": 111122,
+            "event_title": "2017 Perth OTU Triathlon Junior Oceania Championships",
+            "event_slug": "2017_perth_otu_triathlon_junior_oceania_championships",
+            "event_edit_date": "2017-03-10T09:06:49+00:00",
+            "event_venue": "Champion Lakes Regatta Centre, Armadale, Western Australia",
+            "event_country": "Australia",
+            "event_latitude": -31.95053,
+            "event_longitude": 115.86046,
+            "event_date": "2017-03-04",
+            "event_finish_date": "2017-03-05",
+            "event_country_isoa2": "AU",
+            "event_country_noc": "AUS",
+            "event_region_id": 14,
+            "event_country_id": 111,
+            "event_region_name": "Oceania",
+            "event_categories": [
+                {
+                    "cat_name": "Continental Championship",
+                    "cat_id": 340,
+                    "cat_parent_id": null
+                }
+            ],
+            "event_specifications": [
+                {
+                    "cat_name": "Triathlon",
+                    "cat_id": 357,
+                    "cat_parent_id": null
+                },
+                {
+                    "cat_name": "Sprint",
+                    "cat_id": 376,
+                    "cat_parent_id": 357
+                },
+                {
+                    "cat_name": "4xMixed Relay",
+                    "cat_id": 380,
+                    "cat_parent_id": 357
+                }
+            ],
+            "event_flag": "https://f9ca11ef49c28681fc01-0acbf57e00c47a50e70a1acb89e86c89.ssl.cf1.rackcdn.com/images/icons/au.png",
+            "event_listing": "https://www.triathlon.org/events/event/2017_perth_otu_triathlon_junior_oceania_championships",
+            "event_api_listing": "https://api.triathlon.org/v1/v1/events/111122"
+        },
+        {
+            "event_id": 111765,
+            "event_title": "2017 Putrajaya ASTC Powerman Middle Distance Duathlon Asian Championships",
+            "event_slug": "2017_putrajaya_astc_powerman_middle_distance_duathlon_asian_championships",
+            "event_edit_date": "2017-03-05T09:08:30+00:00",
+            "event_venue": "Putrajaya",
+            "event_country": "Malaysia",
+            "event_latitude": 2.92636,
+            "event_longitude": 101.69645,
+            "event_date": "2017-03-04",
+            "event_finish_date": "2017-03-05",
+            "event_country_isoa2": "MY",
+            "event_country_noc": "MAS",
+            "event_region_id": 13,
+            "event_country_id": 213,
+            "event_region_name": "Asia",
+            "event_categories": [
+                {
+                    "cat_name": "Continental Championship",
+                    "cat_id": 340,
+                    "cat_parent_id": null
+                }
+            ],
+            "event_specifications": [
+                {
+                    "cat_name": "Duathlon",
+                    "cat_id": 355,
+                    "cat_parent_id": null
+                },
+                {
+                    "cat_name": "Middle Distance",
+                    "cat_id": 450,
+                    "cat_parent_id": 355
+                }
+            ],
+            "event_flag": "https://f9ca11ef49c28681fc01-0acbf57e00c47a50e70a1acb89e86c89.ssl.cf1.rackcdn.com/images/icons/my.png",
+            "event_listing": "https://www.triathlon.org/events/event/2017_putrajaya_astc_powerman_middle_distance_duathlon_asian_championships",
+            "event_api_listing": "https://api.triathlon.org/v1/v1/events/111765"
+        },
+        {
+            "event_id": 110652,
+            "event_title": "2017 Playa Hermosa CAMTRI Triathlon American Cup",
+            "event_slug": "2017_playa_hermosa_camtri_triathlon_american_cup",
+            "event_edit_date": "2017-03-10T09:04:14+00:00",
+            "event_venue": "Playa Hermosa",
+            "event_country": "Costa Rica",
+            "event_latitude": 10.5798,
+            "event_longitude": -85.67542,
+            "event_date": "2017-03-05",
+            "event_finish_date": "2017-03-05",
+            "event_country_isoa2": "CR",
+            "event_country_noc": "CRC",
+            "event_region_id": 11,
+            "event_country_id": 147,
+            "event_region_name": "Americas",
+            "event_categories": [
+                {
+                    "cat_name": "Continental Cup",
+                    "cat_id": 341,
+                    "cat_parent_id": null
+                }
+            ],
+            "event_specifications": [
+                {
+                    "cat_name": "Triathlon",
+                    "cat_id": 357,
+                    "cat_parent_id": null
+                },
+                {
+                    "cat_name": "Standard",
+                    "cat_id": 377,
+                    "cat_parent_id": 357
+                }
+            ],
+            "event_flag": "https://f9ca11ef49c28681fc01-0acbf57e00c47a50e70a1acb89e86c89.ssl.cf1.rackcdn.com/images/icons/cr.png",
+            "event_listing": "https://www.triathlon.org/events/event/2017_playa_hermosa_camtri_triathlon_american_cup",
+            "event_api_listing": "https://api.triathlon.org/v1/v1/events/110652"
+        },
+        {
+            "event_id": 109657,
+            "event_title": "2017 Mooloolaba ITU Triathlon World Cup",
+            "event_slug": "2017_mooloolaba_itu_triathlon_world_cup",
+            "event_edit_date": "2017-03-11T15:15:51+00:00",
+            "event_venue": "Mooloolaba",
+            "event_country": "Australia",
+            "event_latitude": -26.682,
+            "event_longitude": 153.118,
+            "event_date": "2017-03-11",
+            "event_finish_date": "2017-03-11",
+            "event_country_isoa2": "AU",
+            "event_country_noc": "AUS",
+            "event_region_id": 14,
+            "event_country_id": 111,
+            "event_region_name": "Oceania",
+            "event_categories": [
+                {
+                    "cat_name": "World Cup",
+                    "cat_id": 349,
+                    "cat_parent_id": null
+                }
+            ],
+            "event_specifications": [
+                {
+                    "cat_name": "Triathlon",
+                    "cat_id": 357,
+                    "cat_parent_id": null
+                },
+                {
+                    "cat_name": "Standard",
+                    "cat_id": 377,
+                    "cat_parent_id": 357
+                }
+            ],
+            "event_flag": "https://f9ca11ef49c28681fc01-0acbf57e00c47a50e70a1acb89e86c89.ssl.cf1.rackcdn.com/images/icons/au.png",
+            "event_listing": "https://www.triathlon.org/events/event/2017_mooloolaba_itu_triathlon_world_cup",
+            "event_api_listing": "https://api.triathlon.org/v1/v1/events/109657"
+        },
+        {
+            "event_id": 110654,
+            "event_title": "2017 Sarasota CAMTRI Sprint Triathlon and Mixed Relay American Championships",
+            "event_slug": "2017_sarasota_camtri_sprint_triathlon_and_mixed_relay_american_championship",
+            "event_edit_date": "2017-03-13T14:32:09+00:00",
+            "event_venue": "Sarasota, FL - Nathan Benderson Park",
+            "event_country": "United States",
+            "event_latitude": 27.37424,
+            "event_longitude": -82.45009,
+            "event_date": "2017-03-11",
+            "event_finish_date": "2017-03-12",
+            "event_country_isoa2": "US",
+            "event_country_noc": "USA",
+            "event_region_id": 11,
+            "event_country_id": 293,
+            "event_region_name": "Americas",
+            "event_categories": [
+                {
+                    "cat_name": "Continental Championship",
+                    "cat_id": 340,
+                    "cat_parent_id": null
+                }
+            ],
+            "event_specifications": [
+                {
+                    "cat_name": "Triathlon",
+                    "cat_id": 357,
+                    "cat_parent_id": null
+                },
+                {
+                    "cat_name": "Sprint",
+                    "cat_id": 376,
+                    "cat_parent_id": 357
+                },
+                {
+                    "cat_name": "4xMixed Relay",
+                    "cat_id": 380,
+                    "cat_parent_id": 357
+                }
+            ],
+            "event_flag": "https://f9ca11ef49c28681fc01-0acbf57e00c47a50e70a1acb89e86c89.ssl.cf1.rackcdn.com/images/icons/us.png",
+            "event_listing": "https://www.triathlon.org/events/event/2017_sarasota_camtri_sprint_triathlon_and_mixed_relay_american_championship",
+            "event_api_listing": "https://api.triathlon.org/v1/v1/events/110654"
+        },
+        {
+            "event_id": 110655,
+            "event_title": "2017 Sarasota CAMTRI Triathlon Junior North American Championships ",
+            "event_slug": "2017_sarasota_camtri_triathlon_junior_north_american_championships",
+            "event_edit_date": "2017-03-12T01:21:56+00:00",
+            "event_venue": "Sarasota, FL - Nathan Benderson Park",
+            "event_country": "United States",
+            "event_latitude": 27.37424,
+            "event_longitude": -82.45009,
+            "event_date": "2017-03-11",
+            "event_finish_date": "2017-03-11",
+            "event_country_isoa2": "US",
+            "event_country_noc": "USA",
+            "event_region_id": 11,
+            "event_country_id": 293,
+            "event_region_name": "Americas",
+            "event_categories": [
+                {
+                    "cat_name": "Regional Championships",
+                    "cat_id": 347,
+                    "cat_parent_id": null
+                }
+            ],
+            "event_specifications": [
+                {
+                    "cat_name": "Triathlon",
+                    "cat_id": 357,
+                    "cat_parent_id": null
+                },
+                {
+                    "cat_name": "Sprint",
+                    "cat_id": 376,
+                    "cat_parent_id": 357
+                }
+            ],
+            "event_flag": "https://f9ca11ef49c28681fc01-0acbf57e00c47a50e70a1acb89e86c89.ssl.cf1.rackcdn.com/images/icons/us.png",
+            "event_listing": "https://www.triathlon.org/events/event/2017_sarasota_camtri_triathlon_junior_north_american_championships",
+            "event_api_listing": "https://api.triathlon.org/v1/v1/events/110655"
+        },
+        {
+            "event_id": 110656,
+            "event_title": "2017 Sarasota CAMTRI Paratriathlon American Championships",
+            "event_slug": "2017_sarasota_camtri_paratriathlon_american_championship",
+            "event_edit_date": "2017-06-28T15:59:24+00:00",
+            "event_venue": "Sarasota, FL - Nathan Benderson Park",
+            "event_country": "United States",
+            "event_latitude": 27.37424,
+            "event_longitude": -82.45009,
+            "event_date": "2017-03-11",
+            "event_finish_date": "2017-03-11",
+            "event_country_isoa2": "US",
+            "event_country_noc": "USA",
+            "event_region_id": 11,
+            "event_country_id": 293,
+            "event_region_name": "Americas",
+            "event_categories": [
+                {
+                    "cat_name": "Continental Championship",
+                    "cat_id": 340,
+                    "cat_parent_id": null
+                }
+            ],
+            "event_specifications": [
+                {
+                    "cat_name": "Triathlon",
+                    "cat_id": 357,
+                    "cat_parent_id": null
+                },
+                {
+                    "cat_name": "Paratriathlon",
+                    "cat_id": 381,
+                    "cat_parent_id": 357
+                }
+            ],
+            "event_flag": "https://f9ca11ef49c28681fc01-0acbf57e00c47a50e70a1acb89e86c89.ssl.cf1.rackcdn.com/images/icons/us.png",
+            "event_listing": "https://www.triathlon.org/events/event/2017_sarasota_camtri_paratriathlon_american_championship",
+            "event_api_listing": "https://api.triathlon.org/v1/v1/events/110656"
+        },
+        {
+            "event_id": 111119,
+            "event_title": "2017 Devonport OTU Triathlon Oceania Championships",
+            "event_slug": "2017_devonport_otu_paratriathlon_oceania_championships",
+            "event_edit_date": "2017-06-28T15:53:27+00:00",
+            "event_venue": "Devonport, Tasmania",
+            "event_country": "Australia",
+            "event_latitude": -41.17706,
+            "event_longitude": 146.34518,
+            "event_date": "2017-03-18",
+            "event_finish_date": "2017-03-18",
+            "event_country_isoa2": "AU",
+            "event_country_noc": "AUS",
+            "event_region_id": 14,
+            "event_country_id": 111,
+            "event_region_name": "Oceania",
+            "event_categories": [
+                {
+                    "cat_name": "Continental Championship",
+                    "cat_id": 340,
+                    "cat_parent_id": null
+                }
+            ],
+            "event_specifications": [
+                {
+                    "cat_name": "Triathlon",
+                    "cat_id": 357,
+                    "cat_parent_id": null
+                },
+                {
+                    "cat_name": "Standard",
+                    "cat_id": 377,
+                    "cat_parent_id": 357
+                },
+                {
+                    "cat_name": "Paratriathlon",
+                    "cat_id": 381,
+                    "cat_parent_id": 357
+                }
+            ],
+            "event_flag": "https://f9ca11ef49c28681fc01-0acbf57e00c47a50e70a1acb89e86c89.ssl.cf1.rackcdn.com/images/icons/au.png",
+            "event_listing": "https://www.triathlon.org/events/event/2017_devonport_otu_paratriathlon_oceania_championships",
+            "event_api_listing": "https://api.triathlon.org/v1/v1/events/111119"
+        },
+        {
+            "event_id": 110657,
+            "event_title": "2017 Montevideo CAMTRI Sprint Triathlon American Cup & Iberoamerican and South American Championship",
+            "event_slug": "2017_montevideo_camtri_sprint_triathlon_american_cup_iberoamerican_and_sout",
+            "event_edit_date": "2017-03-28T11:01:11+00:00",
+            "event_venue": "Montevideo",
+            "event_country": "Uruguay",
+            "event_latitude": -34.9166,
+            "event_longitude": -56.16968,
+            "event_date": "2017-03-19",
+            "event_finish_date": "2017-03-19",
+            "event_country_isoa2": "UY",
+            "event_country_noc": "URU",
+            "event_region_id": 11,
+            "event_country_id": 294,
+            "event_region_name": "Americas",
+            "event_categories": [
+                {
+                    "cat_name": "Continental Cup",
+                    "cat_id": 341,
+                    "cat_parent_id": null
+                },
+                {
+                    "cat_name": "Regional Championships",
+                    "cat_id": 347,
+                    "cat_parent_id": null
+                }
+            ],
+            "event_specifications": [
+                {
+                    "cat_name": "Triathlon",
+                    "cat_id": 357,
+                    "cat_parent_id": null
+                },
+                {
+                    "cat_name": "Sprint",
+                    "cat_id": 376,
+                    "cat_parent_id": 357
+                }
+            ],
+            "event_flag": "https://f9ca11ef49c28681fc01-0acbf57e00c47a50e70a1acb89e86c89.ssl.cf1.rackcdn.com/images/icons/uy.png",
+            "event_listing": "https://www.triathlon.org/events/event/2017_montevideo_camtri_sprint_triathlon_american_cup_iberoamerican_and_sout",
+            "event_api_listing": "https://api.triathlon.org/v1/v1/events/110657"
+        },
+        {
+            "event_id": 110658,
+            "event_title": "2017 Montevideo CAMTRI Triathlon Youth and Junior South American Championships",
+            "event_slug": "2017_montevideo_camtri_triathlon_junior_south_american_championships",
+            "event_edit_date": "2017-03-20T10:51:17+00:00",
+            "event_venue": "Montevideo",
+            "event_country": "Uruguay",
+            "event_latitude": -34.91674,
+            "event_longitude": -56.17002,
+            "event_date": "2017-03-19",
+            "event_finish_date": "2017-03-19",
+            "event_country_isoa2": "UY",
+            "event_country_noc": "URU",
+            "event_region_id": 11,
+            "event_country_id": 294,
+            "event_region_name": "Americas",
+            "event_categories": [
+                {
+                    "cat_name": "Regional Championships",
+                    "cat_id": 347,
+                    "cat_parent_id": null
+                }
+            ],
+            "event_specifications": [
+                {
+                    "cat_name": "Triathlon",
+                    "cat_id": 357,
+                    "cat_parent_id": null
+                },
+                {
+                    "cat_name": "Sprint",
+                    "cat_id": 376,
+                    "cat_parent_id": 357
+                },
+                {
+                    "cat_name": "Super Sprint",
+                    "cat_id": 378,
+                    "cat_parent_id": 357
+                }
+            ],
+            "event_flag": "https://f9ca11ef49c28681fc01-0acbf57e00c47a50e70a1acb89e86c89.ssl.cf1.rackcdn.com/images/icons/uy.png",
+            "event_listing": "https://www.triathlon.org/events/event/2017_montevideo_camtri_triathlon_junior_south_american_championships",
+            "event_api_listing": "https://api.triathlon.org/v1/v1/events/110658"
+        },
+        {
+            "event_id": 111434,
+            "event_title": "2017 Free State ATU Triathlon African Cup",
+            "event_slug": "2017_orange_free_state_atu_triathlon_african_cup",
+            "event_edit_date": "2017-03-28T11:07:18+00:00",
+            "event_venue": "Aldam Resort, Free State",
+            "event_country": "South Africa",
+            "event_latitude": -28.45411,
+            "event_longitude": 26.79678,
+            "event_date": "2017-03-19",
+            "event_finish_date": "2017-03-19",
+            "event_country_isoa2": "ZA",
+            "event_country_noc": "RSA",
+            "event_region_id": 12,
+            "event_country_id": 269,
+            "event_region_name": "Africa",
+            "event_categories": [
+                {
+                    "cat_name": "Continental Cup",
+                    "cat_id": 341,
+                    "cat_parent_id": null
+                }
+            ],
+            "event_specifications": [
+                {
+                    "cat_name": "Triathlon",
+                    "cat_id": 357,
+                    "cat_parent_id": null
+                },
+                {
+                    "cat_name": "Standard",
+                    "cat_id": 377,
+                    "cat_parent_id": 357
+                }
+            ],
+            "event_flag": "https://f9ca11ef49c28681fc01-0acbf57e00c47a50e70a1acb89e86c89.ssl.cf1.rackcdn.com/images/icons/za.png",
+            "event_listing": "https://www.triathlon.org/events/event/2017_orange_free_state_atu_triathlon_african_cup",
+            "event_api_listing": "https://api.triathlon.org/v1/v1/events/111434"
+        },
+        {
+            "event_id": 113019,
+            "event_title": "2017 RSA Paratriathlon National Championships",
+            "event_slug": "2017_rsa_paratriathlon_national_championships",
+            "event_edit_date": "2017-03-19T00:00:00+00:00",
+            "event_venue": "Free State",
+            "event_country": "South Africa",
+            "event_latitude": -28.7853618,
+            "event_longitude": 26.4978933,
+            "event_date": "2017-03-19",
+            "event_finish_date": "2017-03-19",
+            "event_country_isoa2": "ZA",
+            "event_country_noc": "RSA",
+            "event_region_id": 12,
+            "event_country_id": 269,
+            "event_region_name": "Africa",
+            "event_categories": [],
+            "event_specifications": [
+                {
+                    "cat_name": "Triathlon",
+                    "cat_id": 357,
+                    "cat_parent_id": null
+                },
+                {
+                    "cat_name": "Sprint",
+                    "cat_id": 376,
+                    "cat_parent_id": 357
+                },
+                {
+                    "cat_name": "Paratriathlon",
+                    "cat_id": 381,
+                    "cat_parent_id": 357
+                }
+            ],
+            "event_flag": "https://f9ca11ef49c28681fc01-0acbf57e00c47a50e70a1acb89e86c89.ssl.cf1.rackcdn.com/images/icons/za.png",
+            "event_listing": "https://www.triathlon.org/events/event/2017_rsa_paratriathlon_national_championships",
+            "event_api_listing": "https://api.triathlon.org/v1/v1/events/113019"
+        },
+        {
+            "event_id": 113121,
+            "event_title": "2017 MAC Duathlon National Championships",
+            "event_slug": "2017_mac_duathlon_national_championships",
+            "event_edit_date": "2017-11-17T11:40:38+00:00",
+            "event_venue": "Macau",
+            "event_country": "Macau",
+            "event_latitude": 22.198745,
+            "event_longitude": 113.543873,
+            "event_date": "2017-03-19",
+            "event_finish_date": "2017-03-19",
+            "event_country_isoa2": "MO",
+            "event_country_noc": "MAC",
+            "event_region_id": 13,
+            "event_country_id": 304,
+            "event_region_name": "Asia",
+            "event_categories": [],
+            "event_specifications": [
+                {
+                    "cat_name": "Duathlon",
+                    "cat_id": 355,
+                    "cat_parent_id": null
+                },
+                {
+                    "cat_name": "Sprint",
+                    "cat_id": 367,
+                    "cat_parent_id": 355
+                }
+            ],
+            "event_flag": "https://f9ca11ef49c28681fc01-0acbf57e00c47a50e70a1acb89e86c89.ssl.cf1.rackcdn.com/images/icons/mo.png",
+            "event_listing": "https://www.triathlon.org/events/event/2017_mac_duathlon_national_championships",
+            "event_api_listing": "https://api.triathlon.org/v1/v1/events/113121"
+        },
+        {
+            "event_id": 110659,
+            "event_title": "2017 La Paz (MEX) CAMTRI Triathlon American Cup",
+            "event_slug": "2017_la_paz_mex_camtri_triathlon_american_cup",
+            "event_edit_date": "2017-03-28T09:52:23+00:00",
+            "event_venue": "La Paz",
+            "event_country": "Mexico",
+            "event_latitude": 24.16404,
+            "event_longitude": -110.31606,
+            "event_date": "2017-03-25",
+            "event_finish_date": "2017-03-25",
+            "event_country_isoa2": "MX",
+            "event_country_noc": "MEX",
+            "event_region_id": 11,
+            "event_country_id": 219,
+            "event_region_name": "Americas",
+            "event_categories": [
+                {
+                    "cat_name": "Continental Cup",
+                    "cat_id": 341,
+                    "cat_parent_id": null
+                }
+            ],
+            "event_specifications": [
+                {
+                    "cat_name": "Triathlon",
+                    "cat_id": 357,
+                    "cat_parent_id": null
+                },
+                {
+                    "cat_name": "Standard",
+                    "cat_id": 377,
+                    "cat_parent_id": 357
+                }
+            ],
+            "event_flag": "https://f9ca11ef49c28681fc01-0acbf57e00c47a50e70a1acb89e86c89.ssl.cf1.rackcdn.com/images/icons/mx.png",
+            "event_listing": "https://www.triathlon.org/events/event/2017_la_paz_mex_camtri_triathlon_american_cup",
+            "event_api_listing": "https://api.triathlon.org/v1/v1/events/110659"
+        },
+        {
+            "event_id": 113533,
+            "event_title": "2017 MAS Triathlon National Championships",
+            "event_slug": "2017_mas_triathlon_national_championships",
+            "event_edit_date": "2017-11-21T08:46:31+00:00",
+            "event_venue": "Putrajaya",
+            "event_country": "Malaysia",
+            "event_latitude": 2.926361,
+            "event_longitude": 101.696445,
+            "event_date": "2017-03-25",
+            "event_finish_date": "2017-03-25",
+            "event_country_isoa2": "MY",
+            "event_country_noc": "MAS",
+            "event_region_id": 13,
+            "event_country_id": 213,
+            "event_region_name": "Asia",
+            "event_categories": [],
+            "event_specifications": [
+                {
+                    "cat_name": "Triathlon",
+                    "cat_id": 357,
+                    "cat_parent_id": null
+                },
+                {
+                    "cat_name": "Standard",
+                    "cat_id": 377,
+                    "cat_parent_id": 357
+                }
+            ],
+            "event_flag": "https://f9ca11ef49c28681fc01-0acbf57e00c47a50e70a1acb89e86c89.ssl.cf1.rackcdn.com/images/icons/my.png",
+            "event_listing": "https://www.triathlon.org/events/event/2017_mas_triathlon_national_championships",
+            "event_api_listing": "https://api.triathlon.org/v1/v1/events/113533"
+        },
+        {
+            "event_id": 110469,
+            "event_title": "2017 Gran Canaria ETU Triathlon European Cup",
+            "event_slug": "2017_las_palmas_etu_triathlon_european_cup",
+            "event_edit_date": "2017-03-28T09:44:44+00:00",
+            "event_venue": "Las Palmas (Canary Islands)",
+            "event_country": "Spain",
+            "event_latitude": 28.14057,
+            "event_longitude": -15.42933,
+            "event_date": "2017-03-26",
+            "event_finish_date": "2017-03-26",
+            "event_country_isoa2": "ES",
+            "event_country_noc": "ESP",
+            "event_region_id": 10,
+            "event_country_id": 270,
+            "event_region_name": "Europe",
+            "event_categories": [
+                {
+                    "cat_name": "Continental Cup",
+                    "cat_id": 341,
+                    "cat_parent_id": null
+                }
+            ],
+            "event_specifications": [
+                {
+                    "cat_name": "Triathlon",
+                    "cat_id": 357,
+                    "cat_parent_id": null
+                },
+                {
+                    "cat_name": "Standard",
+                    "cat_id": 377,
+                    "cat_parent_id": 357
+                }
+            ],
+            "event_flag": "https://f9ca11ef49c28681fc01-0acbf57e00c47a50e70a1acb89e86c89.ssl.cf1.rackcdn.com/images/icons/es.png",
+            "event_listing": "https://www.triathlon.org/events/event/2017_las_palmas_etu_triathlon_european_cup",
+            "event_api_listing": "https://api.triathlon.org/v1/v1/events/110469"
+        },
+        {
+            "event_id": 122029,
+            "event_title": "2017 COL Triathlon National Championships",
+            "event_slug": "2017_col_triathlon_national_championships",
+            "event_edit_date": "2017-03-31T00:00:00+00:00",
+            "event_venue": "San Andres",
+            "event_country": "Colombia",
+            "event_latitude": 12.545015,
+            "event_longitude": -81.707579,
+            "event_date": "2017-03-31",
+            "event_finish_date": "2017-03-31",
+            "event_country_isoa2": "CO",
+            "event_country_noc": "COL",
+            "event_region_id": 11,
+            "event_country_id": 142,
+            "event_region_name": "Americas",
+            "event_categories": [],
+            "event_specifications": [
+                {
+                    "cat_name": "Triathlon",
+                    "cat_id": 357,
+                    "cat_parent_id": null
+                },
+                {
+                    "cat_name": "Standard",
+                    "cat_id": 377,
+                    "cat_parent_id": 357
+                }
+            ],
+            "event_flag": "https://f9ca11ef49c28681fc01-0acbf57e00c47a50e70a1acb89e86c89.ssl.cf1.rackcdn.com/images/icons/co.png",
+            "event_listing": "https://www.triathlon.org/events/event/2017_col_triathlon_national_championships",
+            "event_api_listing": "https://api.triathlon.org/v1/v1/events/122029"
+        },
+        {
+            "event_id": 110470,
+            "event_title": "2017 Quarteira ETU Triathlon European Cup",
+            "event_slug": "2017_quarteira_etu_triathlon_european_cup",
+            "event_edit_date": "2017-04-02T08:44:00+00:00",
+            "event_venue": "Quarteira",
+            "event_country": "Portugal",
+            "event_latitude": 37.066,
+            "event_longitude": -8.09961,
+            "event_date": "2017-04-01",
+            "event_finish_date": "2017-04-02",
+            "event_country_isoa2": "PT",
+            "event_country_noc": "POR",
+            "event_region_id": 10,
+            "event_country_id": 247,
+            "event_region_name": "Europe",
+            "event_categories": [
+                {
+                    "cat_name": "Continental Cup",
+                    "cat_id": 341,
+                    "cat_parent_id": null
+                }
+            ],
+            "event_specifications": [
+                {
+                    "cat_name": "Triathlon",
+                    "cat_id": 357,
+                    "cat_parent_id": null
+                },
+                {
+                    "cat_name": "Standard",
+                    "cat_id": 377,
+                    "cat_parent_id": 357
+                }
+            ],
+            "event_flag": "https://f9ca11ef49c28681fc01-0acbf57e00c47a50e70a1acb89e86c89.ssl.cf1.rackcdn.com/images/icons/pt.png",
+            "event_listing": "https://www.triathlon.org/events/event/2017_quarteira_etu_triathlon_european_cup",
+            "event_api_listing": "https://api.triathlon.org/v1/v1/events/110470"
+        },
+        {
+            "event_id": 110493,
+            "event_title": "2017 Quarteira ETU Triathlon Junior European Cup",
+            "event_slug": "2017_quarteira_etu_triathlon_junior_european_cup",
+            "event_edit_date": "2017-04-04T06:48:33+00:00",
+            "event_venue": "Quarteira",
+            "event_country": "Portugal",
+            "event_latitude": 37.06617,
+            "event_longitude": -8.09995,
+            "event_date": "2017-04-01",
+            "event_finish_date": "2017-04-02",
+            "event_country_isoa2": "PT",
+            "event_country_noc": "POR",
+            "event_region_id": 10,
+            "event_country_id": 247,
+            "event_region_name": "Europe",
+            "event_categories": [
+                {
+                    "cat_name": "Junior Continental Cup",
+                    "cat_id": 342,
+                    "cat_parent_id": null
+                }
+            ],
+            "event_specifications": [
+                {
+                    "cat_name": "Triathlon",
+                    "cat_id": 357,
+                    "cat_parent_id": null
+                },
+                {
+                    "cat_name": "Sprint",
+                    "cat_id": 376,
+                    "cat_parent_id": 357
+                }
+            ],
+            "event_flag": "https://f9ca11ef49c28681fc01-0acbf57e00c47a50e70a1acb89e86c89.ssl.cf1.rackcdn.com/images/icons/pt.png",
+            "event_listing": "https://www.triathlon.org/events/event/2017_quarteira_etu_triathlon_junior_european_cup",
+            "event_api_listing": "https://api.triathlon.org/v1/v1/events/110493"
+        },
+        {
+            "event_id": 110669,
+            "event_title": "2017 Vargas CAMTRI Triathlon American Cup",
+            "event_slug": "2017_vargas_camtri_sprint_triathlon_american_cup",
+            "event_edit_date": "2017-04-03T08:51:04+00:00",
+            "event_venue": "Vargas",
+            "event_country": "Venezuela",
+            "event_latitude": 10.589,
+            "event_longitude": -66.73673,
+            "event_date": "2017-04-01",
+            "event_finish_date": "2017-04-01",
+            "event_country_isoa2": "VE",
+            "event_country_noc": "VEN",
+            "event_region_id": 11,
+            "event_country_id": 297,
+            "event_region_name": "Americas",
+            "event_categories": [
+                {
+                    "cat_name": "Continental Cup",
+                    "cat_id": 341,
+                    "cat_parent_id": null
+                }
+            ],
+            "event_specifications": [
+                {
+                    "cat_name": "Triathlon",
+                    "cat_id": 357,
+                    "cat_parent_id": null
+                },
+                {
+                    "cat_name": "Standard",
+                    "cat_id": 377,
+                    "cat_parent_id": 357
+                }
+            ],
+            "event_flag": "https://f9ca11ef49c28681fc01-0acbf57e00c47a50e70a1acb89e86c89.ssl.cf1.rackcdn.com/images/icons/ve.png",
+            "event_listing": "https://www.triathlon.org/events/event/2017_vargas_camtri_sprint_triathlon_american_cup",
+            "event_api_listing": "https://api.triathlon.org/v1/v1/events/110669"
+        },
+        {
+            "event_id": 110740,
+            "event_title": "2017 Troutbeck ATU Triathlon African Cup",
+            "event_slug": "2016_troutbeck_atu_triathlon_african_cup1",
+            "event_edit_date": "2017-04-03T08:21:20+00:00",
+            "event_venue": "Troutbeck Resort, Nyanga",
+            "event_country": "Zimbabwe",
+            "event_latitude": -18.18254,
+            "event_longitude": 32.8107,
+            "event_date": "2017-04-01",
+            "event_finish_date": "2017-04-01",
+            "event_country_isoa2": "ZW",
+            "event_country_noc": "ZIM",
+            "event_region_id": 12,
+            "event_country_id": 302,
+            "event_region_name": "Africa",
+            "event_categories": [
+                {
+                    "cat_name": "Continental Cup",
+                    "cat_id": 341,
+                    "cat_parent_id": null
+                }
+            ],
+            "event_specifications": [
+                {
+                    "cat_name": "Triathlon",
+                    "cat_id": 357,
+                    "cat_parent_id": null
+                },
+                {
+                    "cat_name": "Standard",
+                    "cat_id": 377,
+                    "cat_parent_id": 357
+                }
+            ],
+            "event_flag": "https://f9ca11ef49c28681fc01-0acbf57e00c47a50e70a1acb89e86c89.ssl.cf1.rackcdn.com/images/icons/zw.png",
+            "event_listing": "https://www.triathlon.org/events/event/2016_troutbeck_atu_triathlon_african_cup1",
+            "event_api_listing": "https://api.triathlon.org/v1/v1/events/110740"
+        },
+        {
+            "event_id": 109658,
+            "event_title": "2017 New Plymouth ITU Triathlon World Cup",
+            "event_slug": "2017_new_plymouth_itu_triathlon_world_cup",
+            "event_edit_date": "2017-04-03T09:06:44+00:00",
+            "event_venue": "New Plymouth",
+            "event_country": "New Zealand",
+            "event_latitude": -39.05563,
+            "event_longitude": 174.07523,
+            "event_date": "2017-04-02",
+            "event_finish_date": "2017-04-02",
+            "event_country_isoa2": "NZ",
+            "event_country_noc": "NZL",
+            "event_region_id": 14,
+            "event_country_id": 232,
+            "event_region_name": "Oceania",
+            "event_categories": [
+                {
+                    "cat_name": "World Cup",
+                    "cat_id": 349,
+                    "cat_parent_id": null
+                }
+            ],
+            "event_specifications": [
+                {
+                    "cat_name": "Triathlon",
+                    "cat_id": 357,
+                    "cat_parent_id": null
+                },
+                {
+                    "cat_name": "Sprint",
+                    "cat_id": 376,
+                    "cat_parent_id": 357
+                }
+            ],
+            "event_flag": "https://f9ca11ef49c28681fc01-0acbf57e00c47a50e70a1acb89e86c89.ssl.cf1.rackcdn.com/images/icons/nz.png",
+            "event_listing": "https://www.triathlon.org/events/event/2017_new_plymouth_itu_triathlon_world_cup",
+            "event_api_listing": "https://api.triathlon.org/v1/v1/events/109658"
+        },
+        {
+            "event_id": 115488,
+            "event_title": "2017 ISV Triathlon National Championships",
+            "event_slug": "2017_isv_triathlon_national_championships",
+            "event_edit_date": "2017-04-02T00:00:00+00:00",
+            "event_venue": "",
+            "event_country": "Virgin Islands",
+            "event_latitude": 18.335765,
+            "event_longitude": -64.896335,
+            "event_date": "2017-04-02",
+            "event_finish_date": "2017-04-02",
+            "event_country_isoa2": "VI",
+            "event_country_noc": "ISV",
+            "event_region_id": 11,
+            "event_country_id": 299,
+            "event_region_name": "Americas",
+            "event_categories": [],
+            "event_specifications": [
+                {
+                    "cat_name": "Triathlon",
+                    "cat_id": 357,
+                    "cat_parent_id": null
+                },
+                {
+                    "cat_name": "Standard",
+                    "cat_id": 377,
+                    "cat_parent_id": 357
+                }
+            ],
+            "event_flag": "https://f9ca11ef49c28681fc01-0acbf57e00c47a50e70a1acb89e86c89.ssl.cf1.rackcdn.com/images/icons/vi.png",
+            "event_listing": "https://www.triathlon.org/events/event/2017_isv_triathlon_national_championships",
+            "event_api_listing": "https://api.triathlon.org/v1/v1/events/115488"
+        },
+        {
+            "event_id": 122053,
+            "event_title": "2017 ESP Duathlon National Championships",
+            "event_slug": "2017_esp_duathlon_national_championships",
+            "event_edit_date": "2017-04-02T00:00:00+00:00",
+            "event_venue": "La Vall d'Uixó",
+            "event_country": "Spain",
+            "event_latitude": 39.824239,
+            "event_longitude": -0.231502,
+            "event_date": "2017-04-02",
+            "event_finish_date": "2017-04-02",
+            "event_country_isoa2": "ES",
+            "event_country_noc": "ESP",
+            "event_region_id": 10,
+            "event_country_id": 270,
+            "event_region_name": "Europe",
+            "event_categories": [],
+            "event_specifications": [
+                {
+                    "cat_name": "Duathlon",
+                    "cat_id": 355,
+                    "cat_parent_id": null
+                },
+                {
+                    "cat_name": "Standard",
+                    "cat_id": 368,
+                    "cat_parent_id": 355
+                }
+            ],
+            "event_flag": "https://f9ca11ef49c28681fc01-0acbf57e00c47a50e70a1acb89e86c89.ssl.cf1.rackcdn.com/images/icons/es.png",
+            "event_listing": "https://www.triathlon.org/events/event/2017_esp_duathlon_national_championships",
+            "event_api_listing": "https://api.triathlon.org/v1/v1/events/122053"
+        },
+        {
+            "event_id": 107159,
+            "event_title": "2017 ITU World Triathlon Gold Coast",
+            "event_slug": "2017_itu_world_triathlon_gold_coast",
+            "event_edit_date": "2017-04-10T07:51:28+00:00",
+            "event_venue": "Gold Coast",
+            "event_country": "Australia",
+            "event_latitude": -28.01667,
+            "event_longitude": 153.4,
+            "event_date": "2017-04-08",
+            "event_finish_date": "2017-04-09",
+            "event_country_isoa2": "AU",
+            "event_country_noc": "AUS",
+            "event_region_id": 14,
+            "event_country_id": 111,
+            "event_region_name": "Oceania",
+            "event_categories": [
+                {
+                    "cat_name": "World Triathlon Series",
+                    "cat_id": 351,
+                    "cat_parent_id": null
+                }
+            ],
+            "event_specifications": [
+                {
+                    "cat_name": "Triathlon",
+                    "cat_id": 357,
+                    "cat_parent_id": null
+                },
+                {
+                    "cat_name": "Sprint",
+                    "cat_id": 376,
+                    "cat_parent_id": 357
+                }
+            ],
+            "event_flag": "https://f9ca11ef49c28681fc01-0acbf57e00c47a50e70a1acb89e86c89.ssl.cf1.rackcdn.com/images/icons/au.png",
+            "event_listing": "https://www.triathlon.org/events/event/2017_itu_world_triathlon_gold_coast",
+            "event_api_listing": "https://api.triathlon.org/v1/v1/events/107159"
+        },
+        {
+            "event_id": 110742,
+            "event_title": "2017 Sharm El Sheikh ATU Sprint Triathlon African Cup and Pan Arab Championships",
+            "event_slug": "2016_sharm_el_sheikh_atu_sprint_triathlon_african_cup",
+            "event_edit_date": "2017-06-14T11:08:10+00:00",
+            "event_venue": "Sharm El Sheikh ",
+            "event_country": "Egypt",
+            "event_latitude": 27.91582,
+            "event_longitude": 34.32995,
+            "event_date": "2017-04-08",
+            "event_finish_date": "2017-04-08",
+            "event_country_isoa2": "EG",
+            "event_country_noc": "EGY",
+            "event_region_id": 12,
+            "event_country_id": 158,
+            "event_region_name": "Africa",
+            "event_categories": [
+                {
+                    "cat_name": "Continental Cup",
+                    "cat_id": 341,
+                    "cat_parent_id": null
+                },
+                {
+                    "cat_name": "Regional Championships",
+                    "cat_id": 347,
+                    "cat_parent_id": null
+                }
+            ],
+            "event_specifications": [
+                {
+                    "cat_name": "Triathlon",
+                    "cat_id": 357,
+                    "cat_parent_id": null
+                },
+                {
+                    "cat_name": "Sprint",
+                    "cat_id": 376,
+                    "cat_parent_id": 357
+                }
+            ],
+            "event_flag": "https://f9ca11ef49c28681fc01-0acbf57e00c47a50e70a1acb89e86c89.ssl.cf1.rackcdn.com/images/icons/eg.png",
+            "event_listing": "https://www.triathlon.org/events/event/2016_sharm_el_sheikh_atu_sprint_triathlon_african_cup",
+            "event_api_listing": "https://api.triathlon.org/v1/v1/events/110742"
+        },
+        {
+            "event_id": 111448,
+            "event_title": "2017 Gold Coast ITU World Paratriathlon Series",
+            "event_slug": "2017_gold_coast_itu_world_paratriathlon_series",
+            "event_edit_date": "2017-06-28T15:55:05+00:00",
+            "event_venue": "Gold Coast",
+            "event_country": "Australia",
+            "event_latitude": -28.01667,
+            "event_longitude": 153.4,
+            "event_date": "2017-04-08",
+            "event_finish_date": "2017-04-08",
+            "event_country_isoa2": "AU",
+            "event_country_noc": "AUS",
+            "event_region_id": 14,
+            "event_country_id": 111,
+            "event_region_name": "Oceania",
+            "event_categories": [
+                {
+                    "cat_name": "World Paratriathlon Series",
+                    "cat_id": 448,
+                    "cat_parent_id": null
+                }
+            ],
+            "event_specifications": [
+                {
+                    "cat_name": "Triathlon",
+                    "cat_id": 357,
+                    "cat_parent_id": null
+                },
+                {
+                    "cat_name": "Paratriathlon",
+                    "cat_id": 381,
+                    "cat_parent_id": 357
+                }
+            ],
+            "event_flag": "https://f9ca11ef49c28681fc01-0acbf57e00c47a50e70a1acb89e86c89.ssl.cf1.rackcdn.com/images/icons/au.png",
+            "event_listing": "https://www.triathlon.org/events/event/2017_gold_coast_itu_world_paratriathlon_series",
+            "event_api_listing": "https://api.triathlon.org/v1/v1/events/111448"
+        },
+        {
+            "event_id": 110678,
+            "event_title": "2017 Hamilton CAMTRI Sprint Triathlon American Cup",
+            "event_slug": "2017_hamilton_camtri_sprint_triathlon_american_cup",
+            "event_edit_date": "2017-04-10T08:15:34+00:00",
+            "event_venue": "Hamilton, Bermuda",
+            "event_country": "Bermuda",
+            "event_latitude": 32.29482,
+            "event_longitude": -64.78138,
+            "event_date": "2017-04-09",
+            "event_finish_date": "2017-04-09",
+            "event_country_isoa2": "BM",
+            "event_country_noc": "BER",
+            "event_region_id": 11,
+            "event_country_id": 121,
+            "event_region_name": "Americas",
+            "event_categories": [
+                {
+                    "cat_name": "Continental Cup",
+                    "cat_id": 341,
+                    "cat_parent_id": null
+                }
+            ],
+            "event_specifications": [
+                {
+                    "cat_name": "Triathlon",
+                    "cat_id": 357,
+                    "cat_parent_id": null
+                },
+                {
+                    "cat_name": "Sprint",
+                    "cat_id": 376,
+                    "cat_parent_id": 357
+                }
+            ],
+            "event_flag": "https://f9ca11ef49c28681fc01-0acbf57e00c47a50e70a1acb89e86c89.ssl.cf1.rackcdn.com/images/icons/bm.png",
+            "event_listing": "https://www.triathlon.org/events/event/2017_hamilton_camtri_sprint_triathlon_american_cup",
+            "event_api_listing": "https://api.triathlon.org/v1/v1/events/110678"
+        },
+        {
+            "event_id": 121765,
+            "event_title": "2017 SVK Duathlon National Championships",
+            "event_slug": "2017_svk_duathlon_national_championships",
+            "event_edit_date": "2017-04-09T00:00:00+00:00",
+            "event_venue": "Kosice",
+            "event_country": "Slovakia",
+            "event_latitude": 48.716386,
+            "event_longitude": 21.261075,
+            "event_date": "2017-04-09",
+            "event_finish_date": "2017-04-09",
+            "event_country_isoa2": "SK",
+            "event_country_noc": "SVK",
+            "event_region_id": 10,
+            "event_country_id": 265,
+            "event_region_name": "Europe",
+            "event_categories": [],
+            "event_specifications": [
+                {
+                    "cat_name": "Duathlon",
+                    "cat_id": 355,
+                    "cat_parent_id": null
+                },
+                {
+                    "cat_name": "Standard",
+                    "cat_id": 368,
+                    "cat_parent_id": 355
+                }
+            ],
+            "event_flag": "https://f9ca11ef49c28681fc01-0acbf57e00c47a50e70a1acb89e86c89.ssl.cf1.rackcdn.com/images/icons/sk.png",
+            "event_listing": "https://www.triathlon.org/events/event/2017_svk_duathlon_national_championships",
+            "event_api_listing": "https://api.triathlon.org/v1/v1/events/121765"
+        },
+        {
+            "event_id": 110741,
+            "event_title": "2017 Rabat ATU Sprint Triathlon African Cup",
+            "event_slug": "2016_rabat_atu_sprint_triathlon_african_cup",
+            "event_edit_date": "2017-04-17T09:32:39+00:00",
+            "event_venue": "Rabat",
+            "event_country": "Morocco",
+            "event_latitude": 33.97159,
+            "event_longitude": -6.84981,
+            "event_date": "2017-04-15",
+            "event_finish_date": "2017-04-15",
+            "event_country_isoa2": "MA",
+            "event_country_noc": "MAR",
+            "event_region_id": 12,
+            "event_country_id": 224,
+            "event_region_name": "Africa",
+            "event_categories": [
+                {
+                    "cat_name": "Continental Cup",
+                    "cat_id": 341,
+                    "cat_parent_id": null
+                }
+            ],
+            "event_specifications": [
+                {
+                    "cat_name": "Triathlon",
+                    "cat_id": 357,
+                    "cat_parent_id": null
+                },
+                {
+                    "cat_name": "Sprint",
+                    "cat_id": 376,
+                    "cat_parent_id": 357
+                }
+            ],
+            "event_flag": "https://f9ca11ef49c28681fc01-0acbf57e00c47a50e70a1acb89e86c89.ssl.cf1.rackcdn.com/images/icons/ma.png",
+            "event_listing": "https://www.triathlon.org/events/event/2016_rabat_atu_sprint_triathlon_african_cup",
+            "event_api_listing": "https://api.triathlon.org/v1/v1/events/110741"
+        },
+        {
+            "event_id": 119221,
+            "event_title": "2017 TTO Duathlon National Championships",
+            "event_slug": "2017_tto_duathlon_national_championships",
+            "event_edit_date": "2017-08-11T13:46:36+00:00",
+            "event_venue": "",
+            "event_country": "Trinidad and Tobago",
+            "event_latitude": 10.654901,
+            "event_longitude": -61.501926,
+            "event_date": "2017-04-16",
+            "event_finish_date": "2017-04-16",
+            "event_country_isoa2": "TT",
+            "event_country_noc": "TTO",
+            "event_region_id": 11,
+            "event_country_id": 285,
+            "event_region_name": "Americas",
+            "event_categories": [],
+            "event_specifications": [
+                {
+                    "cat_name": "Duathlon",
+                    "cat_id": 355,
+                    "cat_parent_id": null
+                },
+                {
+                    "cat_name": "Sprint",
+                    "cat_id": 367,
+                    "cat_parent_id": 355
+                },
+                {
+                    "cat_name": "Standard",
+                    "cat_id": 368,
+                    "cat_parent_id": 355
+                }
+            ],
+            "event_flag": "https://f9ca11ef49c28681fc01-0acbf57e00c47a50e70a1acb89e86c89.ssl.cf1.rackcdn.com/images/icons/tt.png",
+            "event_listing": "https://www.triathlon.org/events/event/2017_tto_duathlon_national_championships",
+            "event_api_listing": "https://api.triathlon.org/v1/v1/events/119221"
+        },
+        {
+            "event_id": 121891,
+            "event_title": "2017 AUT Winter Triathlon National Championships",
+            "event_slug": "2017_aut_winter_triathlon_national_championships",
+            "event_edit_date": "2017-04-19T00:00:00+00:00",
+            "event_venue": "Villach",
+            "event_country": "Austria",
+            "event_latitude": 46.60856,
+            "event_longitude": 13.85062,
+            "event_date": "2017-04-19",
+            "event_finish_date": "2017-04-19",
+            "event_country_isoa2": "AT",
+            "event_country_noc": "AUT",
+            "event_region_id": 10,
+            "event_country_id": 112,
+            "event_region_name": "Europe",
+            "event_categories": [],
+            "event_specifications": [
+                {
+                    "cat_name": "Winter Triathlon",
+                    "cat_id": 358,
+                    "cat_parent_id": null
+                },
+                {
+                    "cat_name": "Standard",
+                    "cat_id": 383,
+                    "cat_parent_id": 358
+                }
+            ],
+            "event_flag": "https://f9ca11ef49c28681fc01-0acbf57e00c47a50e70a1acb89e86c89.ssl.cf1.rackcdn.com/images/icons/at.png",
+            "event_listing": "https://www.triathlon.org/events/event/2017_aut_winter_triathlon_national_championships",
+            "event_api_listing": "https://api.triathlon.org/v1/v1/events/121891"
+        },
+        {
+            "event_id": 122127,
+            "event_title": "2017 HUN Sprint Duathlon National Championships",
+            "event_slug": "2017_hun_sprint_duathlon_national_championships",
+            "event_edit_date": "2017-04-22T00:00:00+00:00",
+            "event_venue": "Balatonboglar",
+            "event_country": "Hungary",
+            "event_latitude": 46.773976,
+            "event_longitude": 17.65607,
+            "event_date": "2017-04-22",
+            "event_finish_date": "2017-04-22",
+            "event_country_isoa2": "HU",
+            "event_country_noc": "HUN",
+            "event_region_id": 10,
+            "event_country_id": 182,
+            "event_region_name": "Europe",
+            "event_categories": [],
+            "event_specifications": [
+                {
+                    "cat_name": "Duathlon",
+                    "cat_id": 355,
+                    "cat_parent_id": null
+                },
+                {
+                    "cat_name": "Sprint",
+                    "cat_id": 367,
+                    "cat_parent_id": 355
+                }
+            ],
+            "event_flag": "https://f9ca11ef49c28681fc01-0acbf57e00c47a50e70a1acb89e86c89.ssl.cf1.rackcdn.com/images/icons/hu.png",
+            "event_listing": "https://www.triathlon.org/events/event/2017_hun_sprint_duathlon_national_championships",
+            "event_api_listing": "https://api.triathlon.org/v1/v1/events/122127"
+        },
+        {
+            "event_id": 110660,
+            "event_title": "2017 Bridgetown CAMTRI Sprint Triathlon American Cup and Central American and Caribbean Championship",
+            "event_slug": "2017_bridgetown_camtri_sprint_triathlon_american_cup",
+            "event_edit_date": "2017-04-24T06:54:08+00:00",
+            "event_venue": "Bridgetown ",
+            "event_country": "Barbados",
+            "event_latitude": 13.11322,
+            "event_longitude": -59.59881,
+            "event_date": "2017-04-23",
+            "event_finish_date": "2017-04-23",
+            "event_country_isoa2": "BB",
+            "event_country_noc": "BAR",
+            "event_region_id": 11,
+            "event_country_id": 117,
+            "event_region_name": "Americas",
+            "event_categories": [
+                {
+                    "cat_name": "Continental Cup",
+                    "cat_id": 341,
+                    "cat_parent_id": null
+                },
+                {
+                    "cat_name": "Regional Championships",
+                    "cat_id": 347,
+                    "cat_parent_id": null
+                }
+            ],
+            "event_specifications": [
+                {
+                    "cat_name": "Triathlon",
+                    "cat_id": 357,
+                    "cat_parent_id": null
+                },
+                {
+                    "cat_name": "Sprint",
+                    "cat_id": 376,
+                    "cat_parent_id": 357
+                }
+            ],
+            "event_flag": "https://f9ca11ef49c28681fc01-0acbf57e00c47a50e70a1acb89e86c89.ssl.cf1.rackcdn.com/images/icons/bb.png",
+            "event_listing": "https://www.triathlon.org/events/event/2017_bridgetown_camtri_sprint_triathlon_american_cup",
+            "event_api_listing": "https://api.triathlon.org/v1/v1/events/110660"
+        },
+        {
+            "event_id": 117149,
+            "event_title": "2017 ITA Paratriathlon National Championships",
+            "event_slug": "2017_ita_paratriathlon_national_championships",
+            "event_edit_date": "2017-07-10T12:38:05+00:00",
+            "event_venue": "Milan",
+            "event_country": "Italy",
+            "event_latitude": 45.46542,
+            "event_longitude": 9.18592,
+            "event_date": "2017-04-23",
+            "event_finish_date": "2017-04-23",
+            "event_country_isoa2": "IT",
+            "event_country_noc": "ITA",
+            "event_region_id": 10,
+            "event_country_id": 190,
+            "event_region_name": "Europe",
+            "event_categories": [],
+            "event_specifications": [
+                {
+                    "cat_name": "Triathlon",
+                    "cat_id": 357,
+                    "cat_parent_id": null
+                },
+                {
+                    "cat_name": "Sprint",
+                    "cat_id": 376,
+                    "cat_parent_id": 357
+                },
+                {
+                    "cat_name": "Paratriathlon",
+                    "cat_id": 381,
+                    "cat_parent_id": 357
+                }
+            ],
+            "event_flag": "https://f9ca11ef49c28681fc01-0acbf57e00c47a50e70a1acb89e86c89.ssl.cf1.rackcdn.com/images/icons/it.png",
+            "event_listing": "https://www.triathlon.org/events/event/2017_ita_paratriathlon_national_championships",
+            "event_api_listing": "https://api.triathlon.org/v1/v1/events/117149"
+        },
+        {
+            "event_id": 96332,
+            "event_title": "2017 Auckland World Masters Games",
+            "event_slug": "2017_auckland_world_masters_games",
+            "event_edit_date": "2017-06-14T11:06:36+00:00",
+            "event_venue": "Auckland",
+            "event_country": "New Zealand",
+            "event_latitude": -36.84846,
+            "event_longitude": 174.76333,
+            "event_date": "2017-04-29",
+            "event_finish_date": "2017-04-29",
+            "event_country_isoa2": "NZ",
+            "event_country_noc": "NZL",
+            "event_region_id": 14,
+            "event_country_id": 232,
+            "event_region_name": "Oceania",
+            "event_categories": [
+                {
+                    "cat_name": "Recognised Games",
+                    "cat_id": 346,
+                    "cat_parent_id": null
+                }
+            ],
+            "event_specifications": [
+                {
+                    "cat_name": "Triathlon",
+                    "cat_id": 357,
+                    "cat_parent_id": null
+                },
+                {
+                    "cat_name": "Sprint",
+                    "cat_id": 376,
+                    "cat_parent_id": 357
+                },
+                {
+                    "cat_name": "Standard",
+                    "cat_id": 377,
+                    "cat_parent_id": 357
+                },
+                {
+                    "cat_name": "Paratriathlon",
+                    "cat_id": 381,
+                    "cat_parent_id": 357
+                }
+            ],
+            "event_flag": "https://f9ca11ef49c28681fc01-0acbf57e00c47a50e70a1acb89e86c89.ssl.cf1.rackcdn.com/images/icons/nz.png",
+            "event_listing": "https://www.triathlon.org/events/event/2017_auckland_world_masters_games",
+            "event_api_listing": "https://api.triathlon.org/v1/v1/events/96332"
+        },
+        {
+            "event_id": 109695,
+            "event_title": "2017 Soria ETU Duathlon European Championships",
+            "event_slug": "2017_soria_etu_duathlon_european_championships",
+            "event_edit_date": "2017-06-28T16:01:47+00:00",
+            "event_venue": "Soria",
+            "event_country": "Spain",
+            "event_latitude": 41.76398,
+            "event_longitude": -2.46727,
+            "event_date": "2017-04-29",
+            "event_finish_date": "2017-04-30",
+            "event_country_isoa2": "ES",
+            "event_country_noc": "ESP",
+            "event_region_id": 10,
+            "event_country_id": 270,
+            "event_region_name": "Europe",
+            "event_categories": [
+                {
+                    "cat_name": "Continental Championship",
+                    "cat_id": 340,
+                    "cat_parent_id": null
+                }
+            ],
+            "event_specifications": [
+                {
+                    "cat_name": "Duathlon",
+                    "cat_id": 355,
+                    "cat_parent_id": null
+                },
+                {
+                    "cat_name": "Sprint",
+                    "cat_id": 367,
+                    "cat_parent_id": 355
+                },
+                {
+                    "cat_name": "Standard",
+                    "cat_id": 368,
+                    "cat_parent_id": 355
+                },
+                {
+                    "cat_name": "Paratriathlon",
+                    "cat_id": 372,
+                    "cat_parent_id": 355
+                }
+            ],
+            "event_flag": "https://f9ca11ef49c28681fc01-0acbf57e00c47a50e70a1acb89e86c89.ssl.cf1.rackcdn.com/images/icons/es.png",
+            "event_listing": "https://www.triathlon.org/events/event/2017_soria_etu_duathlon_european_championships",
+            "event_api_listing": "https://api.triathlon.org/v1/v1/events/109695"
+        },
+        {
+            "event_id": 111612,
+            "event_title": "2017 Subic Bay ASTC Triathlon Junior Asian Cup",
+            "event_slug": "2017_subic_bay_astc_triathlon_junior_asian_cup",
+            "event_edit_date": "2017-05-04T11:29:03+00:00",
+            "event_venue": "Subic Bay",
+            "event_country": "Philippines",
+            "event_latitude": 14.79106,
+            "event_longitude": 120.23973,
+            "event_date": "2017-04-29",
+            "event_finish_date": "2017-04-29",
+            "event_country_isoa2": "PH",
+            "event_country_noc": "PHI",
+            "event_region_id": 13,
+            "event_country_id": 245,
+            "event_region_name": "Asia",
+            "event_categories": [
+                {
+                    "cat_name": "Junior Continental Cup",
+                    "cat_id": 342,
+                    "cat_parent_id": null
+                }
+            ],
+            "event_specifications": [
+                {
+                    "cat_name": "Triathlon",
+                    "cat_id": 357,
+                    "cat_parent_id": null
+                },
+                {
+                    "cat_name": "Sprint",
+                    "cat_id": 376,
+                    "cat_parent_id": 357
+                }
+            ],
+            "event_flag": "https://f9ca11ef49c28681fc01-0acbf57e00c47a50e70a1acb89e86c89.ssl.cf1.rackcdn.com/images/icons/ph.png",
+            "event_listing": "https://www.triathlon.org/events/event/2017_subic_bay_astc_triathlon_junior_asian_cup",
+            "event_api_listing": "https://api.triathlon.org/v1/v1/events/111612"
+        },
+        {
+            "event_id": 111615,
+            "event_title": "2017 Subic Bay ASTC Paratriathlon Asian Championships",
+            "event_slug": "2017_subic_bay_astc_paratriathlon_asian_championships",
+            "event_edit_date": "2017-06-28T16:02:37+00:00",
+            "event_venue": "Subic Bay",
+            "event_country": "Philippines",
+            "event_latitude": 14.79106,
+            "event_longitude": 120.23973,
+            "event_date": "2017-04-29",
+            "event_finish_date": "2017-04-30",
+            "event_country_isoa2": "PH",
+            "event_country_noc": "PHI",
+            "event_region_id": 13,
+            "event_country_id": 245,
+            "event_region_name": "Asia",
+            "event_categories": [
+                {
+                    "cat_name": "Continental Championship",
+                    "cat_id": 340,
+                    "cat_parent_id": null
+                }
+            ],
+            "event_specifications": [
+                {
+                    "cat_name": "Triathlon",
+                    "cat_id": 357,
+                    "cat_parent_id": null
+                },
+                {
+                    "cat_name": "Paratriathlon",
+                    "cat_id": 381,
+                    "cat_parent_id": 357
+                }
+            ],
+            "event_flag": "https://f9ca11ef49c28681fc01-0acbf57e00c47a50e70a1acb89e86c89.ssl.cf1.rackcdn.com/images/icons/ph.png",
+            "event_listing": "https://www.triathlon.org/events/event/2017_subic_bay_astc_paratriathlon_asian_championships",
+            "event_api_listing": "https://api.triathlon.org/v1/v1/events/111615"
+        },
+        {
+            "event_id": 121689,
+            "event_title": "2017 BLR Sprint Duathlon National Championships",
+            "event_slug": "2017_blr_sprint_duathlon_national_championships",
+            "event_edit_date": "2017-04-29T00:00:00+00:00",
+            "event_venue": "Drogichin",
+            "event_country": "Belarus",
+            "event_latitude": 52.193041,
+            "event_longitude": 25.147172,
+            "event_date": "2017-04-29",
+            "event_finish_date": "2017-04-29",
+            "event_country_isoa2": "BY",
+            "event_country_noc": "BLR",
+            "event_region_id": 10,
+            "event_country_id": 118,
+            "event_region_name": "Europe",
+            "event_categories": [],
+            "event_specifications": [
+                {
+                    "cat_name": "Duathlon",
+                    "cat_id": 355,
+                    "cat_parent_id": null
+                },
+                {
+                    "cat_name": "Sprint",
+                    "cat_id": 367,
+                    "cat_parent_id": 355
+                }
+            ],
+            "event_flag": "https://f9ca11ef49c28681fc01-0acbf57e00c47a50e70a1acb89e86c89.ssl.cf1.rackcdn.com/images/icons/by.png",
+            "event_listing": "https://www.triathlon.org/events/event/2017_blr_sprint_duathlon_national_championships",
+            "event_api_listing": "https://api.triathlon.org/v1/v1/events/121689"
+        },
+        {
+            "event_id": 110661,
+            "event_title": "2017 Salinas CAMTRI Triathlon American Cup",
+            "event_slug": "2017_salinas_camtri_triathlon_american_cup",
+            "event_edit_date": "2017-09-06T15:04:24+00:00",
+            "event_venue": "Salinas",
+            "event_country": "Ecuador",
+            "event_latitude": 36.67774,
+            "event_longitude": -121.6555,
+            "event_date": "2017-04-30",
+            "event_finish_date": "2017-04-30",
+            "event_country_isoa2": "EC",
+            "event_country_noc": "ECU",
+            "event_region_id": 11,
+            "event_country_id": 157,
+            "event_region_name": "Americas",
+            "event_categories": [
+                {
+                    "cat_name": "Continental Cup",
+                    "cat_id": 341,
+                    "cat_parent_id": null
+                }
+            ],
+            "event_specifications": [
+                {
+                    "cat_name": "Triathlon",
+                    "cat_id": 357,
+                    "cat_parent_id": null
+                },
+                {
+                    "cat_name": "Standard",
+                    "cat_id": 377,
+                    "cat_parent_id": 357
+                }
+            ],
+            "event_flag": "https://f9ca11ef49c28681fc01-0acbf57e00c47a50e70a1acb89e86c89.ssl.cf1.rackcdn.com/images/icons/ec.png",
+            "event_listing": "https://www.triathlon.org/events/event/2017_salinas_camtri_triathlon_american_cup",
+            "event_api_listing": "https://api.triathlon.org/v1/v1/events/110661"
+        },
+        {
+            "event_id": 111614,
+            "event_title": "2017 Subic Bay NTT ASTC Triathlon Asian Cup",
+            "event_slug": "2017_subic_bay_astc_triathlon_asian_cup",
+            "event_edit_date": "2017-07-07T07:05:30+00:00",
+            "event_venue": "Subic Bay",
+            "event_country": "Philippines",
+            "event_latitude": 14.79106,
+            "event_longitude": 120.23973,
+            "event_date": "2017-04-30",
+            "event_finish_date": "2017-04-30",
+            "event_country_isoa2": "PH",
+            "event_country_noc": "PHI",
+            "event_region_id": 13,
+            "event_country_id": 245,
+            "event_region_name": "Asia",
+            "event_categories": [
+                {
+                    "cat_name": "Continental Cup",
+                    "cat_id": 341,
+                    "cat_parent_id": null
+                }
+            ],
+            "event_specifications": [
+                {
+                    "cat_name": "Triathlon",
+                    "cat_id": 357,
+                    "cat_parent_id": null
+                },
+                {
+                    "cat_name": "Standard",
+                    "cat_id": 377,
+                    "cat_parent_id": 357
+                }
+            ],
+            "event_flag": "https://f9ca11ef49c28681fc01-0acbf57e00c47a50e70a1acb89e86c89.ssl.cf1.rackcdn.com/images/icons/ph.png",
+            "event_listing": "https://www.triathlon.org/events/event/2017_subic_bay_astc_triathlon_asian_cup",
+            "event_api_listing": "https://api.triathlon.org/v1/v1/events/111614"
+        },
+        {
+            "event_id": 122407,
+            "event_title": "2017 GER Duathlon National Championships",
+            "event_slug": "2017_ger_duathlon_national_championships",
+            "event_edit_date": "2017-04-30T00:00:00+00:00",
+            "event_venue": "Alsdorf",
+            "event_country": "Germany",
+            "event_latitude": 0,
+            "event_longitude": 0,
+            "event_date": "2017-04-30",
+            "event_finish_date": "2017-04-30",
+            "event_country_isoa2": "DE",
+            "event_country_noc": "GER",
+            "event_region_id": 10,
+            "event_country_id": 170,
+            "event_region_name": "Europe",
+            "event_categories": [],
+            "event_specifications": [
+                {
+                    "cat_name": "Duathlon",
+                    "cat_id": 355,
+                    "cat_parent_id": null
+                },
+                {
+                    "cat_name": "Standard",
+                    "cat_id": 368,
+                    "cat_parent_id": 355
+                }
+            ],
+            "event_flag": "https://f9ca11ef49c28681fc01-0acbf57e00c47a50e70a1acb89e86c89.ssl.cf1.rackcdn.com/images/icons/de.png",
+            "event_listing": "https://www.triathlon.org/events/event/2017_ger_duathlon_national_championships",
+            "event_api_listing": "https://api.triathlon.org/v1/v1/events/122407"
+        },
+        {
+            "event_id": 115484,
+            "event_title": "2017 MLT Duathlon National Championships",
+            "event_slug": "2017_mlt_duathlon_national_championships",
+            "event_edit_date": "2017-05-26T11:00:36+00:00",
+            "event_venue": "Mtarfa",
+            "event_country": "Malta",
+            "event_latitude": 35.88951,
+            "event_longitude": 14.3952,
+            "event_date": "2017-05-01",
+            "event_finish_date": "2017-05-01",
+            "event_country_isoa2": "MT",
+            "event_country_noc": "MLT",
+            "event_region_id": 10,
+            "event_country_id": 216,
+            "event_region_name": "Europe",
+            "event_categories": [],
+            "event_specifications": [
+                {
+                    "cat_name": "Duathlon",
+                    "cat_id": 355,
+                    "cat_parent_id": null
+                },
+                {
+                    "cat_name": "Standard",
+                    "cat_id": 368,
+                    "cat_parent_id": 355
+                }
+            ],
+            "event_flag": "https://f9ca11ef49c28681fc01-0acbf57e00c47a50e70a1acb89e86c89.ssl.cf1.rackcdn.com/images/icons/mt.png",
+            "event_listing": "https://www.triathlon.org/events/event/2017_mlt_duathlon_national_championships",
+            "event_api_listing": "https://api.triathlon.org/v1/v1/events/115484"
+        },
+        {
+            "event_id": 122105,
+            "event_title": "2017 HUN Paratriathlon National Championships",
+            "event_slug": "2017_hun_paratriathlon_national_championships",
+            "event_edit_date": "2017-11-15T15:47:31+00:00",
+            "event_venue": "Tiszaujvaros",
+            "event_country": "Hungary",
+            "event_latitude": 47.91598,
+            "event_longitude": 21.04274,
+            "event_date": "2017-05-01",
+            "event_finish_date": "2017-05-01",
+            "event_country_isoa2": "HU",
+            "event_country_noc": "HUN",
+            "event_region_id": 10,
+            "event_country_id": 182,
+            "event_region_name": "Europe",
+            "event_categories": [],
+            "event_specifications": [
+                {
+                    "cat_name": "Triathlon",
+                    "cat_id": 357,
+                    "cat_parent_id": null
+                },
+                {
+                    "cat_name": "Sprint",
+                    "cat_id": 376,
+                    "cat_parent_id": 357
+                },
+                {
+                    "cat_name": "Paratriathlon",
+                    "cat_id": 381,
+                    "cat_parent_id": 357
+                }
+            ],
+            "event_flag": "https://f9ca11ef49c28681fc01-0acbf57e00c47a50e70a1acb89e86c89.ssl.cf1.rackcdn.com/images/icons/hu.png",
+            "event_listing": "https://www.triathlon.org/events/event/2017_hun_paratriathlon_national_championships",
+            "event_api_listing": "https://api.triathlon.org/v1/v1/events/122105"
+        },
+        {
+            "event_id": 109659,
+            "event_title": "2017 Chengdu ITU Triathlon World Cup",
+            "event_slug": "2017_chengdu_itu_triathlon_world_cup",
+            "event_edit_date": "2017-05-08T18:09:52+00:00",
+            "event_venue": "Chengdu",
+            "event_country": "China",
+            "event_latitude": 30.57282,
+            "event_longitude": 104.0668,
+            "event_date": "2017-05-06",
+            "event_finish_date": "2017-05-07",
+            "event_country_isoa2": "CN",
+            "event_country_noc": "CHN",
+            "event_region_id": 13,
+            "event_country_id": 141,
+            "event_region_name": "Asia",
+            "event_categories": [
+                {
+                    "cat_name": "World Cup",
+                    "cat_id": 349,
+                    "cat_parent_id": null
+                }
+            ],
+            "event_specifications": [
+                {
+                    "cat_name": "Triathlon",
+                    "cat_id": 357,
+                    "cat_parent_id": null
+                },
+                {
+                    "cat_name": "Sprint",
+                    "cat_id": 376,
+                    "cat_parent_id": 357
+                },
+                {
+                    "cat_name": "Super Sprint",
+                    "cat_id": 378,
+                    "cat_parent_id": 357
+                }
+            ],
+            "event_flag": "https://f9ca11ef49c28681fc01-0acbf57e00c47a50e70a1acb89e86c89.ssl.cf1.rackcdn.com/images/icons/cn.png",
+            "event_listing": "https://www.triathlon.org/events/event/2017_chengdu_itu_triathlon_world_cup",
+            "event_api_listing": "https://api.triathlon.org/v1/v1/events/109659"
+        },
+        {
+            "event_id": 110745,
+            "event_title": "2017 Yasmine Hammamet ATU Triathlon African Championships",
+            "event_slug": "2016_yasmine_hammamet_atu_triathlon_african_championships",
+            "event_edit_date": "2017-06-28T16:03:47+00:00",
+            "event_venue": "Yasmine Hammamet",
+            "event_country": "Tunisia",
+            "event_latitude": 36.37488,
+            "event_longitude": 10.53524,
+            "event_date": "2017-05-06",
+            "event_finish_date": "2017-05-07",
+            "event_country_isoa2": "TN",
+            "event_country_noc": "TUN",
+            "event_region_id": 12,
+            "event_country_id": 286,
+            "event_region_name": "Africa",
+            "event_categories": [
+                {
+                    "cat_name": "Continental Championship",
+                    "cat_id": 340,
+                    "cat_parent_id": null
+                }
+            ],
+            "event_specifications": [
+                {
+                    "cat_name": "Triathlon",
+                    "cat_id": 357,
+                    "cat_parent_id": null
+                },
+                {
+                    "cat_name": "Sprint",
+                    "cat_id": 376,
+                    "cat_parent_id": 357
+                },
+                {
+                    "cat_name": "Standard",
+                    "cat_id": 377,
+                    "cat_parent_id": 357
+                },
+                {
+                    "cat_name": "Paratriathlon",
+                    "cat_id": 381,
+                    "cat_parent_id": 357
+                }
+            ],
+            "event_flag": "https://f9ca11ef49c28681fc01-0acbf57e00c47a50e70a1acb89e86c89.ssl.cf1.rackcdn.com/images/icons/tn.png",
+            "event_listing": "https://www.triathlon.org/events/event/2016_yasmine_hammamet_atu_triathlon_african_championships",
+            "event_api_listing": "https://api.triathlon.org/v1/v1/events/110745"
+        },
+        {
+            "event_id": 110662,
+            "event_title": "2017 Richmond CAMTRI Sprint Triathlon American Cup",
+            "event_slug": "2017_richmond_camtri_sprint_triathlon_american_cup",
+            "event_edit_date": "2017-05-08T09:41:42+00:00",
+            "event_venue": "Richmond",
+            "event_country": "United States",
+            "event_latitude": 37.54072,
+            "event_longitude": -77.43605,
+            "event_date": "2017-05-07",
+            "event_finish_date": "2017-05-07",
+            "event_country_isoa2": "US",
+            "event_country_noc": "USA",
+            "event_region_id": 11,
+            "event_country_id": 293,
+            "event_region_name": "Americas",
+            "event_categories": [
+                {
+                    "cat_name": "Continental Cup",
+                    "cat_id": 341,
+                    "cat_parent_id": null
+                }
+            ],
+            "event_specifications": [
+                {
+                    "cat_name": "Triathlon",
+                    "cat_id": 357,
+                    "cat_parent_id": null
+                },
+                {
+                    "cat_name": "Sprint",
+                    "cat_id": 376,
+                    "cat_parent_id": 357
+                }
+            ],
+            "event_flag": "https://f9ca11ef49c28681fc01-0acbf57e00c47a50e70a1acb89e86c89.ssl.cf1.rackcdn.com/images/icons/us.png",
+            "event_listing": "https://www.triathlon.org/events/event/2017_richmond_camtri_sprint_triathlon_american_cup",
+            "event_api_listing": "https://api.triathlon.org/v1/v1/events/110662"
+        },
+        {
+            "event_id": 107160,
+            "event_title": "2017 ITU World Triathlon Yokohama",
+            "event_slug": "2017_itu_world_triathlon_yokohama",
+            "event_edit_date": "2017-07-12T08:22:24+00:00",
+            "event_venue": "Yokohama",
+            "event_country": "Japan",
+            "event_latitude": 35.44371,
+            "event_longitude": 139.63803,
+            "event_date": "2017-05-13",
+            "event_finish_date": "2017-05-14",
+            "event_country_isoa2": "JP",
+            "event_country_noc": "JPN",
+            "event_region_id": 13,
+            "event_country_id": 192,
+            "event_region_name": "Asia",
+            "event_categories": [
+                {
+                    "cat_name": "World Triathlon Series",
+                    "cat_id": 351,
+                    "cat_parent_id": null
+                }
+            ],
+            "event_specifications": [
+                {
+                    "cat_name": "Triathlon",
+                    "cat_id": 357,
+                    "cat_parent_id": null
+                },
+                {
+                    "cat_name": "Standard",
+                    "cat_id": 377,
+                    "cat_parent_id": 357
+                }
+            ],
+            "event_flag": "https://f9ca11ef49c28681fc01-0acbf57e00c47a50e70a1acb89e86c89.ssl.cf1.rackcdn.com/images/icons/jp.png",
+            "event_listing": "https://www.triathlon.org/events/event/2017_itu_world_triathlon_yokohama",
+            "event_api_listing": "https://api.triathlon.org/v1/v1/events/107160"
+        },
+        {
+            "event_id": 111449,
+            "event_title": "2017 Yokohama ITU World Paratriathlon Series",
+            "event_slug": "2017_yokohama_itu_world_paratriathlon_series",
+            "event_edit_date": "2017-06-28T16:04:22+00:00",
+            "event_venue": "Yokohama",
+            "event_country": "Japan",
+            "event_latitude": 35.44371,
+            "event_longitude": 139.63803,
+            "event_date": "2017-05-13",
+            "event_finish_date": "2017-05-13",
+            "event_country_isoa2": "JP",
+            "event_country_noc": "JPN",
+            "event_region_id": 13,
+            "event_country_id": 192,
+            "event_region_name": "Asia",
+            "event_categories": [
+                {
+                    "cat_name": "World Paratriathlon Series",
+                    "cat_id": 448,
+                    "cat_parent_id": null
+                }
+            ],
+            "event_specifications": [
+                {
+                    "cat_name": "Triathlon",
+                    "cat_id": 357,
+                    "cat_parent_id": null
+                },
+                {
+                    "cat_name": "Paratriathlon",
+                    "cat_id": 381,
+                    "cat_parent_id": 357
+                }
+            ],
+            "event_flag": "https://f9ca11ef49c28681fc01-0acbf57e00c47a50e70a1acb89e86c89.ssl.cf1.rackcdn.com/images/icons/jp.png",
+            "event_listing": "https://www.triathlon.org/events/event/2017_yokohama_itu_world_paratriathlon_series",
+            "event_api_listing": "https://api.triathlon.org/v1/v1/events/111449"
+        },
+        {
+            "event_id": 122136,
+            "event_title": "2017 ROU Sprint Duathlon National Championships",
+            "event_slug": "2017_rou_sprint_duathlon_national_championships",
+            "event_edit_date": "2017-05-14T00:00:00+00:00",
+            "event_venue": "Cluj-Napoca",
+            "event_country": "Romania",
+            "event_latitude": 46.77121,
+            "event_longitude": 23.623635,
+            "event_date": "2017-05-14",
+            "event_finish_date": "2017-05-14",
+            "event_country_isoa2": "RO",
+            "event_country_noc": "ROU",
+            "event_region_id": 10,
+            "event_country_id": 250,
+            "event_region_name": "Europe",
+            "event_categories": [],
+            "event_specifications": [
+                {
+                    "cat_name": "Duathlon",
+                    "cat_id": 355,
+                    "cat_parent_id": null
+                },
+                {
+                    "cat_name": "Sprint",
+                    "cat_id": 367,
+                    "cat_parent_id": 355
+                }
+            ],
+            "event_flag": "https://f9ca11ef49c28681fc01-0acbf57e00c47a50e70a1acb89e86c89.ssl.cf1.rackcdn.com/images/icons/ro.png",
+            "event_listing": "https://www.triathlon.org/events/event/2017_rou_sprint_duathlon_national_championships",
+            "event_api_listing": "https://api.triathlon.org/v1/v1/events/122136"
+        },
+        {
+            "event_id": 110663,
+            "event_title": "2017 Ixtapa CAMTRI Sprint Triathlon American Cup",
+            "event_slug": "2017_ixtapa_camtri_sprint_triathlon_american_cup",
+            "event_edit_date": "2017-05-21T21:13:40+00:00",
+            "event_venue": "Ixtapa",
+            "event_country": "Mexico",
+            "event_latitude": 20.71459,
+            "event_longitude": -105.20552,
+            "event_date": "2017-05-20",
+            "event_finish_date": "2017-05-20",
+            "event_country_isoa2": "MX",
+            "event_country_noc": "MEX",
+            "event_region_id": 11,
+            "event_country_id": 219,
+            "event_region_name": "Americas",
+            "event_categories": [
+                {
+                    "cat_name": "Continental Cup",
+                    "cat_id": 341,
+                    "cat_parent_id": null
+                }
+            ],
+            "event_specifications": [
+                {
+                    "cat_name": "Triathlon",
+                    "cat_id": 357,
+                    "cat_parent_id": null
+                },
+                {
+                    "cat_name": "Sprint",
+                    "cat_id": 376,
+                    "cat_parent_id": 357
+                }
+            ],
+            "event_flag": "https://f9ca11ef49c28681fc01-0acbf57e00c47a50e70a1acb89e86c89.ssl.cf1.rackcdn.com/images/icons/mx.png",
+            "event_listing": "https://www.triathlon.org/events/event/2017_ixtapa_camtri_sprint_triathlon_american_cup",
+            "event_api_listing": "https://api.triathlon.org/v1/v1/events/110663"
+        },
+        {
+            "event_id": 110744,
+            "event_title": "2017 Larache ATU Sprint Triathlon African Cup",
+            "event_slug": "2016_larache_atu_sprint_triathlon_african_cup1",
+            "event_edit_date": "2017-05-23T05:58:20+00:00",
+            "event_venue": "Larache",
+            "event_country": "Morocco",
+            "event_latitude": 35.17443,
+            "event_longitude": -6.1474,
+            "event_date": "2017-05-20",
+            "event_finish_date": "2017-05-20",
+            "event_country_isoa2": "MA",
+            "event_country_noc": "MAR",
+            "event_region_id": 12,
+            "event_country_id": 224,
+            "event_region_name": "Africa",
+            "event_categories": [
+                {
+                    "cat_name": "Continental Cup",
+                    "cat_id": 341,
+                    "cat_parent_id": null
+                }
+            ],
+            "event_specifications": [
+                {
+                    "cat_name": "Triathlon",
+                    "cat_id": 357,
+                    "cat_parent_id": null
+                },
+                {
+                    "cat_name": "Sprint",
+                    "cat_id": 376,
+                    "cat_parent_id": 357
+                }
+            ],
+            "event_flag": "https://f9ca11ef49c28681fc01-0acbf57e00c47a50e70a1acb89e86c89.ssl.cf1.rackcdn.com/images/icons/ma.png",
+            "event_listing": "https://www.triathlon.org/events/event/2016_larache_atu_sprint_triathlon_african_cup1",
+            "event_api_listing": "https://api.triathlon.org/v1/v1/events/110744"
+        },
+        {
+            "event_id": 119235,
+            "event_title": "2017 UKR Paratriathlon National Championships",
+            "event_slug": "2017_ukr_paratriathlon_national_championships",
+            "event_edit_date": "2017-08-11T14:10:10+00:00",
+            "event_venue": "Dnipropetrovsk",
+            "event_country": "Ukraine",
+            "event_latitude": 48.46472,
+            "event_longitude": 35.04618,
+            "event_date": "2017-05-20",
+            "event_finish_date": "2017-05-20",
+            "event_country_isoa2": "UA",
+            "event_country_noc": "UKR",
+            "event_region_id": 10,
+            "event_country_id": 290,
+            "event_region_name": "Europe",
+            "event_categories": [],
+            "event_specifications": [
+                {
+                    "cat_name": "Triathlon",
+                    "cat_id": 357,
+                    "cat_parent_id": null
+                },
+                {
+                    "cat_name": "Sprint",
+                    "cat_id": 376,
+                    "cat_parent_id": 357
+                },
+                {
+                    "cat_name": "Paratriathlon",
+                    "cat_id": 381,
+                    "cat_parent_id": 357
+                }
+            ],
+            "event_flag": "https://f9ca11ef49c28681fc01-0acbf57e00c47a50e70a1acb89e86c89.ssl.cf1.rackcdn.com/images/icons/ua.png",
+            "event_listing": "https://www.triathlon.org/events/event/2017_ukr_paratriathlon_national_championships",
+            "event_api_listing": "https://api.triathlon.org/v1/v1/events/119235"
+        },
+        {
+            "event_id": 111534,
+            "event_title": "2017 Sankt Wendel ETU Powerman Middle Distance Duathlon European Championships",
+            "event_slug": "2017_sankt_wendel_etu_powerman_mid_distance_duathon_european_championships",
+            "event_edit_date": "2017-07-07T09:24:59+00:00",
+            "event_venue": "Sankt Wendel",
+            "event_country": "Germany",
+            "event_latitude": 49.46777,
+            "event_longitude": 7.16906,
+            "event_date": "2017-05-21",
+            "event_finish_date": "2017-05-21",
+            "event_country_isoa2": "DE",
+            "event_country_noc": "GER",
+            "event_region_id": 10,
+            "event_country_id": 170,
+            "event_region_name": "Europe",
+            "event_categories": [
+                {
+                    "cat_name": "Continental Championship",
+                    "cat_id": 340,
+                    "cat_parent_id": null
+                }
+            ],
+            "event_specifications": [
+                {
+                    "cat_name": "Duathlon",
+                    "cat_id": 355,
+                    "cat_parent_id": null
+                },
+                {
+                    "cat_name": "Paratriathlon",
+                    "cat_id": 372,
+                    "cat_parent_id": 355
+                },
+                {
+                    "cat_name": "Middle Distance",
+                    "cat_id": 450,
+                    "cat_parent_id": 355
+                }
+            ],
+            "event_flag": "https://f9ca11ef49c28681fc01-0acbf57e00c47a50e70a1acb89e86c89.ssl.cf1.rackcdn.com/images/icons/de.png",
+            "event_listing": "https://www.triathlon.org/events/event/2017_sankt_wendel_etu_powerman_mid_distance_duathon_european_championships",
+            "event_api_listing": "https://api.triathlon.org/v1/v1/events/111534"
+        },
+        {
+            "event_id": 122035,
+            "event_title": "2017 COL Duathlon National Championships",
+            "event_slug": "2017_col_duathlon_national_championships",
+            "event_edit_date": "2017-05-21T00:00:00+00:00",
+            "event_venue": "Antioquia",
+            "event_country": "Colombia",
+            "event_latitude": 7.198606,
+            "event_longitude": -75.341218,
+            "event_date": "2017-05-21",
+            "event_finish_date": "2017-05-21",
+            "event_country_isoa2": "CO",
+            "event_country_noc": "COL",
+            "event_region_id": 11,
+            "event_country_id": 142,
+            "event_region_name": "Americas",
+            "event_categories": [],
+            "event_specifications": [
+                {
+                    "cat_name": "Duathlon",
+                    "cat_id": 355,
+                    "cat_parent_id": null
+                },
+                {
+                    "cat_name": "Standard",
+                    "cat_id": 368,
+                    "cat_parent_id": 355
+                }
+            ],
+            "event_flag": "https://f9ca11ef49c28681fc01-0acbf57e00c47a50e70a1acb89e86c89.ssl.cf1.rackcdn.com/images/icons/co.png",
+            "event_listing": "https://www.triathlon.org/events/event/2017_col_duathlon_national_championships",
+            "event_api_listing": "https://api.triathlon.org/v1/v1/events/122035"
+        },
+        {
+            "event_id": 109696,
+            "event_title": "2017 Bratislava ETU Aquathlon European Championships",
+            "event_slug": "2017_bratislava_etu_aquathlon_european_championships",
+            "event_edit_date": "2017-11-21T09:19:41+00:00",
+            "event_venue": "Bratislava",
+            "event_country": "Slovakia",
+            "event_latitude": 48.10597,
+            "event_longitude": 17.11049,
+            "event_date": "2017-05-27",
+            "event_finish_date": "2017-05-27",
+            "event_country_isoa2": "SK",
+            "event_country_noc": "SVK",
+            "event_region_id": 10,
+            "event_country_id": 265,
+            "event_region_name": "Europe",
+            "event_categories": [
+                {
+                    "cat_name": "Continental Championship",
+                    "cat_id": 340,
+                    "cat_parent_id": null
+                }
+            ],
+            "event_specifications": [
+                {
+                    "cat_name": "Aquathlon",
+                    "cat_id": 353,
+                    "cat_parent_id": null
+                }
+            ],
+            "event_flag": "https://f9ca11ef49c28681fc01-0acbf57e00c47a50e70a1acb89e86c89.ssl.cf1.rackcdn.com/images/icons/sk.png",
+            "event_listing": "https://www.triathlon.org/events/event/2017_bratislava_etu_aquathlon_european_championships",
+            "event_api_listing": "https://api.triathlon.org/v1/v1/events/109696"
+        },
+        {
+            "event_id": 119238,
+            "event_title": "2017 DEN Paratriathlon National Championships",
+            "event_slug": "2017_den_paratriathlon_national_championships1",
+            "event_edit_date": "2017-05-27T00:00:00+00:00",
+            "event_venue": "Furesoeen",
+            "event_country": "Denmark",
+            "event_latitude": 55.794084,
+            "event_longitude": 12.414937,
+            "event_date": "2017-05-27",
+            "event_finish_date": "2017-05-27",
+            "event_country_isoa2": "DK",
+            "event_country_noc": "DEN",
+            "event_region_id": 10,
+            "event_country_id": 153,
+            "event_region_name": "Europe",
+            "event_categories": [],
+            "event_specifications": [
+                {
+                    "cat_name": "Triathlon",
+                    "cat_id": 357,
+                    "cat_parent_id": null
+                },
+                {
+                    "cat_name": "Sprint",
+                    "cat_id": 376,
+                    "cat_parent_id": 357
+                },
+                {
+                    "cat_name": "Paratriathlon",
+                    "cat_id": 381,
+                    "cat_parent_id": 357
+                }
+            ],
+            "event_flag": "https://f9ca11ef49c28681fc01-0acbf57e00c47a50e70a1acb89e86c89.ssl.cf1.rackcdn.com/images/icons/dk.png",
+            "event_listing": "https://www.triathlon.org/events/event/2017_den_paratriathlon_national_championships1",
+            "event_api_listing": "https://api.triathlon.org/v1/v1/events/119238"
+        },
+        {
+            "event_id": 109660,
+            "event_title": "2017 Madrid ITU Triathlon World Cup",
+            "event_slug": "2017_madrid_itu_triathlon_world_cup",
+            "event_edit_date": "2017-11-13T14:15:43+00:00",
+            "event_venue": "Madrid",
+            "event_country": "Spain",
+            "event_latitude": 40.41678,
+            "event_longitude": -3.70379,
+            "event_date": "2017-05-28",
+            "event_finish_date": "2017-05-28",
+            "event_country_isoa2": "ES",
+            "event_country_noc": "ESP",
+            "event_region_id": 10,
+            "event_country_id": 270,
+            "event_region_name": "Europe",
+            "event_categories": [
+                {
+                    "cat_name": "World Cup",
+                    "cat_id": 349,
+                    "cat_parent_id": null
+                }
+            ],
+            "event_specifications": [
+                {
+                    "cat_name": "Triathlon",
+                    "cat_id": 357,
+                    "cat_parent_id": null
+                },
+                {
+                    "cat_name": "Standard",
+                    "cat_id": 377,
+                    "cat_parent_id": 357
+                }
+            ],
+            "event_flag": "https://f9ca11ef49c28681fc01-0acbf57e00c47a50e70a1acb89e86c89.ssl.cf1.rackcdn.com/images/icons/es.png",
+            "event_listing": "https://www.triathlon.org/events/event/2017_madrid_itu_triathlon_world_cup",
+            "event_api_listing": "https://api.triathlon.org/v1/v1/events/109660"
+        },
+        {
+            "event_id": 121634,
+            "event_title": "2017 CUB Sprint Triathlon National Championships",
+            "event_slug": "2017_cub_sprint_triathlon_national_championships",
+            "event_edit_date": "2017-09-26T09:22:19+00:00",
+            "event_venue": "La Habana",
+            "event_country": "Cuba",
+            "event_latitude": 23.11359,
+            "event_longitude": -82.3666,
+            "event_date": "2017-05-28",
+            "event_finish_date": "2017-05-28",
+            "event_country_isoa2": "CU",
+            "event_country_noc": "CUB",
+            "event_region_id": 11,
+            "event_country_id": 150,
+            "event_region_name": "Americas",
+            "event_categories": [],
+            "event_specifications": [
+                {
+                    "cat_name": "Triathlon",
+                    "cat_id": 357,
+                    "cat_parent_id": null
+                },
+                {
+                    "cat_name": "Sprint",
+                    "cat_id": 376,
+                    "cat_parent_id": 357
+                }
+            ],
+            "event_flag": "https://f9ca11ef49c28681fc01-0acbf57e00c47a50e70a1acb89e86c89.ssl.cf1.rackcdn.com/images/icons/cu.png",
+            "event_listing": "https://www.triathlon.org/events/event/2017_cub_sprint_triathlon_national_championships",
+            "event_api_listing": "https://api.triathlon.org/v1/v1/events/121634"
+        },
+        {
+            "event_id": 121980,
+            "event_title": "2017 CRO Middle Distance Triathlon National Championships",
+            "event_slug": "2017_cro_middle_distance_triathlon_national_championships",
+            "event_edit_date": "2017-05-28T00:00:00+00:00",
+            "event_venue": "Petrcane",
+            "event_country": "Croatia",
+            "event_latitude": 44.187431,
+            "event_longitude": 15.160097,
+            "event_date": "2017-05-28",
+            "event_finish_date": "2017-05-28",
+            "event_country_isoa2": "HR",
+            "event_country_noc": "CRO",
+            "event_region_id": 10,
+            "event_country_id": 149,
+            "event_region_name": "Europe",
+            "event_categories": [],
+            "event_specifications": [
+                {
+                    "cat_name": "Long Distance Triathlon",
+                    "cat_id": 356,
+                    "cat_parent_id": null
+                },
+                {
+                    "cat_name": "Middle Distance",
+                    "cat_id": 373,
+                    "cat_parent_id": 356
+                }
+            ],
+            "event_flag": "https://f9ca11ef49c28681fc01-0acbf57e00c47a50e70a1acb89e86c89.ssl.cf1.rackcdn.com/images/icons/hr.png",
+            "event_listing": "https://www.triathlon.org/events/event/2017_cro_middle_distance_triathlon_national_championships",
+            "event_api_listing": "https://api.triathlon.org/v1/v1/events/121980"
+        },
+        {
+            "event_id": 111616,
+            "event_title": "2017 Taizhou ASTC Triathlon Asian Cup",
+            "event_slug": "2017_taizhou_astc_triathlon_asian_cup",
+            "event_edit_date": "2017-06-06T13:23:31+00:00",
+            "event_venue": "Taizhou",
+            "event_country": "China",
+            "event_latitude": 28.65638,
+            "event_longitude": 121.42076,
+            "event_date": "2017-06-03",
+            "event_finish_date": "2017-06-03",
+            "event_country_isoa2": "CN",
+            "event_country_noc": "CHN",
+            "event_region_id": 13,
+            "event_country_id": 141,
+            "event_region_name": "Asia",
+            "event_categories": [
+                {
+                    "cat_name": "Continental Cup",
+                    "cat_id": 341,
+                    "cat_parent_id": null
+                }
+            ],
+            "event_specifications": [
+                {
+                    "cat_name": "Triathlon",
+                    "cat_id": 357,
+                    "cat_parent_id": null
+                },
+                {
+                    "cat_name": "Standard",
+                    "cat_id": 377,
+                    "cat_parent_id": 357
+                }
+            ],
+            "event_flag": "https://f9ca11ef49c28681fc01-0acbf57e00c47a50e70a1acb89e86c89.ssl.cf1.rackcdn.com/images/icons/cn.png",
+            "event_listing": "https://www.triathlon.org/events/event/2017_taizhou_astc_triathlon_asian_cup",
+            "event_api_listing": "https://api.triathlon.org/v1/v1/events/111616"
+        },
+        {
+            "event_id": 117136,
+            "event_title": "2017 AUT Sprint Triathlon National Championships",
+            "event_slug": "2017_aut_triathlon_national_championships",
+            "event_edit_date": "2017-09-12T13:45:25+00:00",
+            "event_venue": "Maria Lankowitz",
+            "event_country": "Austria",
+            "event_latitude": 47.06269,
+            "event_longitude": 15.06559,
+            "event_date": "2017-06-03",
+            "event_finish_date": "2017-06-03",
+            "event_country_isoa2": "AT",
+            "event_country_noc": "AUT",
+            "event_region_id": 10,
+            "event_country_id": 112,
+            "event_region_name": "Europe",
+            "event_categories": [],
+            "event_specifications": [
+                {
+                    "cat_name": "Triathlon",
+                    "cat_id": 357,
+                    "cat_parent_id": null
+                },
+                {
+                    "cat_name": "Sprint",
+                    "cat_id": 376,
+                    "cat_parent_id": 357
+                }
+            ],
+            "event_flag": "https://f9ca11ef49c28681fc01-0acbf57e00c47a50e70a1acb89e86c89.ssl.cf1.rackcdn.com/images/icons/at.png",
+            "event_listing": "https://www.triathlon.org/events/event/2017_aut_triathlon_national_championships",
+            "event_api_listing": "https://api.triathlon.org/v1/v1/events/117136"
+        },
+        {
+            "event_id": 117227,
+            "event_title": "2017 FRA Triathlon Junior National Championships",
+            "event_slug": "2017_fra_triathlon_junior_national_championships",
+            "event_edit_date": "2017-06-03T00:00:00+00:00",
+            "event_venue": "Pierrelate",
+            "event_country": "France",
+            "event_latitude": 44.37775,
+            "event_longitude": 4.696981,
+            "event_date": "2017-06-03",
+            "event_finish_date": "2017-06-03",
+            "event_country_isoa2": "FR",
+            "event_country_noc": "FRA",
+            "event_region_id": 10,
+            "event_country_id": 166,
+            "event_region_name": "Europe",
+            "event_categories": [],
+            "event_specifications": [
+                {
+                    "cat_name": "Triathlon",
+                    "cat_id": 357,
+                    "cat_parent_id": null
+                },
+                {
+                    "cat_name": "Sprint",
+                    "cat_id": 376,
+                    "cat_parent_id": 357
+                }
+            ],
+            "event_flag": "https://f9ca11ef49c28681fc01-0acbf57e00c47a50e70a1acb89e86c89.ssl.cf1.rackcdn.com/images/icons/fr.png",
+            "event_listing": "https://www.triathlon.org/events/event/2017_fra_triathlon_junior_national_championships",
+            "event_api_listing": "https://api.triathlon.org/v1/v1/events/117227"
+        },
+        {
+            "event_id": 122017,
+            "event_title": "2017 IND Sprint Triathlon National Championships",
+            "event_slug": "2017_ind_sprint_triathlon_national_championships",
+            "event_edit_date": "2017-06-03T00:00:00+00:00",
+            "event_venue": "Maharashtra",
+            "event_country": "India",
+            "event_latitude": 19.75148,
+            "event_longitude": 75.713888,
+            "event_date": "2017-06-03",
+            "event_finish_date": "2017-06-03",
+            "event_country_isoa2": "IN",
+            "event_country_noc": "IND",
+            "event_region_id": 13,
+            "event_country_id": 184,
+            "event_region_name": "Asia",
+            "event_categories": [],
+            "event_specifications": [
+                {
+                    "cat_name": "Triathlon",
+                    "cat_id": 357,
+                    "cat_parent_id": null
+                },
+                {
+                    "cat_name": "Sprint",
+                    "cat_id": 376,
+                    "cat_parent_id": 357
+                }
+            ],
+            "event_flag": "https://f9ca11ef49c28681fc01-0acbf57e00c47a50e70a1acb89e86c89.ssl.cf1.rackcdn.com/images/icons/in.png",
+            "event_listing": "https://www.triathlon.org/events/event/2017_ind_sprint_triathlon_national_championships",
+            "event_api_listing": "https://api.triathlon.org/v1/v1/events/122017"
+        },
+        {
+            "event_id": 122406,
+            "event_title": "2017 RUS Triathlon National Championships",
+            "event_slug": "2017_rus_triathlon_national_championships",
+            "event_edit_date": "2017-06-03T00:00:00+00:00",
+            "event_venue": "Izhevsk",
+            "event_country": "Russia",
+            "event_latitude": 0,
+            "event_longitude": 0,
+            "event_date": "2017-06-03",
+            "event_finish_date": "2017-06-03",
+            "event_country_isoa2": "RU",
+            "event_country_noc": "RUS",
+            "event_region_id": 10,
+            "event_country_id": 251,
+            "event_region_name": "Europe",
+            "event_categories": [],
+            "event_specifications": [
+                {
+                    "cat_name": "Triathlon",
+                    "cat_id": 357,
+                    "cat_parent_id": null
+                },
+                {
+                    "cat_name": "Standard",
+                    "cat_id": 377,
+                    "cat_parent_id": 357
+                }
+            ],
+            "event_flag": "https://f9ca11ef49c28681fc01-0acbf57e00c47a50e70a1acb89e86c89.ssl.cf1.rackcdn.com/images/icons/ru.png",
+            "event_listing": "https://www.triathlon.org/events/event/2017_rus_triathlon_national_championships",
+            "event_api_listing": "https://api.triathlon.org/v1/v1/events/122406"
+        },
+        {
+            "event_id": 109661,
+            "event_title": "2017 Cagliari ITU Triathlon World Cup",
+            "event_slug": "2017_cagliari_itu_triathlon_world_cup",
+            "event_edit_date": "2017-06-06T15:38:53+00:00",
+            "event_venue": "Cagliari",
+            "event_country": "Italy",
+            "event_latitude": 39.22384,
+            "event_longitude": 9.12166,
+            "event_date": "2017-06-04",
+            "event_finish_date": "2017-06-04",
+            "event_country_isoa2": "IT",
+            "event_country_noc": "ITA",
+            "event_region_id": 10,
+            "event_country_id": 190,
+            "event_region_name": "Europe",
+            "event_categories": [
+                {
+                    "cat_name": "World Cup",
+                    "cat_id": 349,
+                    "cat_parent_id": null
+                }
+            ],
+            "event_specifications": [
+                {
+                    "cat_name": "Triathlon",
+                    "cat_id": 357,
+                    "cat_parent_id": null
+                },
+                {
+                    "cat_name": "Sprint",
+                    "cat_id": 376,
+                    "cat_parent_id": 357
+                }
+            ],
+            "event_flag": "https://f9ca11ef49c28681fc01-0acbf57e00c47a50e70a1acb89e86c89.ssl.cf1.rackcdn.com/images/icons/it.png",
+            "event_listing": "https://www.triathlon.org/events/event/2017_cagliari_itu_triathlon_world_cup",
+            "event_api_listing": "https://api.triathlon.org/v1/v1/events/109661"
+        },
+        {
+            "event_id": 111451,
+            "event_title": "2017 Besancon ITU Paratriathlon World Cup",
+            "event_slug": "2017_besancon_itu_paratriathlon_world_cup",
+            "event_edit_date": "2017-06-28T15:49:19+00:00",
+            "event_venue": "Besancon",
+            "event_country": "France",
+            "event_latitude": 47.23783,
+            "event_longitude": 6.02405,
+            "event_date": "2017-06-04",
+            "event_finish_date": "2017-06-04",
+            "event_country_isoa2": "FR",
+            "event_country_noc": "FRA",
+            "event_region_id": 10,
+            "event_country_id": 166,
+            "event_region_name": "Europe",
+            "event_categories": [
+                {
+                    "cat_name": "Paratriathlon World Cup",
+                    "cat_id": 449,
+                    "cat_parent_id": null
+                }
+            ],
+            "event_specifications": [
+                {
+                    "cat_name": "Triathlon",
+                    "cat_id": 357,
+                    "cat_parent_id": null
+                },
+                {
+                    "cat_name": "Sprint",
+                    "cat_id": 376,
+                    "cat_parent_id": 357
+                },
+                {
+                    "cat_name": "Paratriathlon",
+                    "cat_id": 381,
+                    "cat_parent_id": 357
+                }
+            ],
+            "event_flag": "https://f9ca11ef49c28681fc01-0acbf57e00c47a50e70a1acb89e86c89.ssl.cf1.rackcdn.com/images/icons/fr.png",
+            "event_listing": "https://www.triathlon.org/events/event/2017_besancon_itu_paratriathlon_world_cup",
+            "event_api_listing": "https://api.triathlon.org/v1/v1/events/111451"
+        },
+        {
+            "event_id": 111617,
+            "event_title": "2017 New Taipei ASTC Triathlon Asian Cup",
+            "event_slug": "2017_new_taipei_astc_triathlon_asian_cup",
+            "event_edit_date": "2017-06-11T14:25:09+00:00",
+            "event_venue": "New Taipei",
+            "event_country": "Chinese Taipei",
+            "event_latitude": 25.01698,
+            "event_longitude": 121.46279,
+            "event_date": "2017-06-04",
+            "event_finish_date": "2017-06-04",
+            "event_country_isoa2": "TW",
+            "event_country_noc": "TPE",
+            "event_region_id": 13,
+            "event_country_id": 278,
+            "event_region_name": "Asia",
+            "event_categories": [
+                {
+                    "cat_name": "Continental Cup",
+                    "cat_id": 341,
+                    "cat_parent_id": null
+                }
+            ],
+            "event_specifications": [
+                {
+                    "cat_name": "Triathlon",
+                    "cat_id": 357,
+                    "cat_parent_id": null
+                },
+                {
+                    "cat_name": "Standard",
+                    "cat_id": 377,
+                    "cat_parent_id": 357
+                }
+            ],
+            "event_flag": "https://f9ca11ef49c28681fc01-0acbf57e00c47a50e70a1acb89e86c89.ssl.cf1.rackcdn.com/images/icons/tw.png",
+            "event_listing": "https://www.triathlon.org/events/event/2017_new_taipei_astc_triathlon_asian_cup",
+            "event_api_listing": "https://api.triathlon.org/v1/v1/events/111617"
+        },
+        {
+            "event_id": 121831,
+            "event_title": "2017 AUT Paratriathlon National Championships",
+            "event_slug": "2017_aut_paratriathlon_national_championships",
+            "event_edit_date": "2017-10-19T07:57:13+00:00",
+            "event_venue": "",
+            "event_country": "Austria",
+            "event_latitude": 47.516231,
+            "event_longitude": 14.550072,
+            "event_date": "2017-06-04",
+            "event_finish_date": "2017-06-04",
+            "event_country_isoa2": "AT",
+            "event_country_noc": "AUT",
+            "event_region_id": 10,
+            "event_country_id": 112,
+            "event_region_name": "Europe",
+            "event_categories": [],
+            "event_specifications": [
+                {
+                    "cat_name": "Triathlon",
+                    "cat_id": 357,
+                    "cat_parent_id": null
+                },
+                {
+                    "cat_name": "Sprint",
+                    "cat_id": 376,
+                    "cat_parent_id": 357
+                },
+                {
+                    "cat_name": "Paratriathlon",
+                    "cat_id": 381,
+                    "cat_parent_id": 357
+                }
+            ],
+            "event_flag": "https://f9ca11ef49c28681fc01-0acbf57e00c47a50e70a1acb89e86c89.ssl.cf1.rackcdn.com/images/icons/at.png",
+            "event_listing": "https://www.triathlon.org/events/event/2017_aut_paratriathlon_national_championships",
+            "event_api_listing": "https://api.triathlon.org/v1/v1/events/121831"
+        },
+        {
+            "event_id": 121970,
+            "event_title": "2017 CRO Triathlon Junior National Championships",
+            "event_slug": "2017_cro_triathlon_junior_national_championships",
+            "event_edit_date": "2017-06-04T00:00:00+00:00",
+            "event_venue": "Rab",
+            "event_country": "Croatia",
+            "event_latitude": 44.75691,
+            "event_longitude": 14.759968,
+            "event_date": "2017-06-04",
+            "event_finish_date": "2017-06-04",
+            "event_country_isoa2": "HR",
+            "event_country_noc": "CRO",
+            "event_region_id": 10,
+            "event_country_id": 149,
+            "event_region_name": "Europe",
+            "event_categories": [],
+            "event_specifications": [
+                {
+                    "cat_name": "Triathlon",
+                    "cat_id": 357,
+                    "cat_parent_id": null
+                },
+                {
+                    "cat_name": "Sprint",
+                    "cat_id": 376,
+                    "cat_parent_id": 357
+                }
+            ],
+            "event_flag": "https://f9ca11ef49c28681fc01-0acbf57e00c47a50e70a1acb89e86c89.ssl.cf1.rackcdn.com/images/icons/hr.png",
+            "event_listing": "https://www.triathlon.org/events/event/2017_cro_triathlon_junior_national_championships",
+            "event_api_listing": "https://api.triathlon.org/v1/v1/events/121970"
+        },
+        {
+            "event_id": 122139,
+            "event_title": "2017 ROU Long Distance Triathlon National Championships",
+            "event_slug": "2017_rou_long_distance_triathlon_national_championships",
+            "event_edit_date": "2017-06-09T00:00:00+00:00",
+            "event_venue": "Oradea",
+            "event_country": "Romania",
+            "event_latitude": 47.046501,
+            "event_longitude": 21.918944,
+            "event_date": "2017-06-09",
+            "event_finish_date": "2017-06-09",
+            "event_country_isoa2": "RO",
+            "event_country_noc": "ROU",
+            "event_region_id": 10,
+            "event_country_id": 250,
+            "event_region_name": "Europe",
+            "event_categories": [],
+            "event_specifications": [
+                {
+                    "cat_name": "Long Distance Triathlon",
+                    "cat_id": 356,
+                    "cat_parent_id": null
+                },
+                {
+                    "cat_name": "Long Distance",
+                    "cat_id": 374,
+                    "cat_parent_id": 356
+                }
+            ],
+            "event_flag": "https://f9ca11ef49c28681fc01-0acbf57e00c47a50e70a1acb89e86c89.ssl.cf1.rackcdn.com/images/icons/ro.png",
+            "event_listing": "https://www.triathlon.org/events/event/2017_rou_long_distance_triathlon_national_championships",
+            "event_api_listing": "https://api.triathlon.org/v1/v1/events/122139"
+        },
+        {
+            "event_id": 107161,
+            "event_title": "2017 ITU World Triathlon Leeds",
+            "event_slug": "2017_itu_world_triathlon_leeds",
+            "event_edit_date": "2017-06-27T15:22:28+00:00",
+            "event_venue": "Leeds",
+            "event_country": "Great Britain",
+            "event_latitude": 53.80076,
+            "event_longitude": -1.54908,
+            "event_date": "2017-06-10",
+            "event_finish_date": "2017-06-11",
+            "event_country_isoa2": "GB",
+            "event_country_noc": "GBR",
+            "event_region_id": 10,
+            "event_country_id": 292,
+            "event_region_name": "Europe",
+            "event_categories": [
+                {
+                    "cat_name": "World Triathlon Series",
+                    "cat_id": 351,
+                    "cat_parent_id": null
+                }
+            ],
+            "event_specifications": [
+                {
+                    "cat_name": "Triathlon",
+                    "cat_id": 357,
+                    "cat_parent_id": null
+                },
+                {
+                    "cat_name": "Standard",
+                    "cat_id": 377,
+                    "cat_parent_id": 357
+                }
+            ],
+            "event_flag": "https://f9ca11ef49c28681fc01-0acbf57e00c47a50e70a1acb89e86c89.ssl.cf1.rackcdn.com/images/icons/gb.png",
+            "event_listing": "https://www.triathlon.org/events/event/2017_itu_world_triathlon_leeds",
+            "event_api_listing": "https://api.triathlon.org/v1/v1/events/107161"
+        },
+        {
+            "event_id": 109697,
+            "event_title": "2017 Herning ETU Challenge Middle Distance Triathlon European Championships",
+            "event_slug": "2017_herning_etu_challenge_middle_distance_triathlon_european_championships",
+            "event_edit_date": "2017-07-07T09:24:19+00:00",
+            "event_venue": "Herning",
+            "event_country": "Denmark",
+            "event_latitude": 56.13856,
+            "event_longitude": 8.96732,
+            "event_date": "2017-06-10",
+            "event_finish_date": "2017-06-10",
+            "event_country_isoa2": "DK",
+            "event_country_noc": "DEN",
+            "event_region_id": 10,
+            "event_country_id": 153,
+            "event_region_name": "Europe",
+            "event_categories": [
+                {
+                    "cat_name": "Continental Championship",
+                    "cat_id": 340,
+                    "cat_parent_id": null
+                }
+            ],
+            "event_specifications": [
+                {
+                    "cat_name": "Long Distance Triathlon",
+                    "cat_id": 356,
+                    "cat_parent_id": null
+                },
+                {
+                    "cat_name": "Middle Distance",
+                    "cat_id": 373,
+                    "cat_parent_id": 356
+                },
+                {
+                    "cat_name": "Paratriathlon",
+                    "cat_id": 375,
+                    "cat_parent_id": 356
+                }
+            ],
+            "event_flag": "https://f9ca11ef49c28681fc01-0acbf57e00c47a50e70a1acb89e86c89.ssl.cf1.rackcdn.com/images/icons/dk.png",
+            "event_listing": "https://www.triathlon.org/events/event/2017_herning_etu_challenge_middle_distance_triathlon_european_championships",
+            "event_api_listing": "https://api.triathlon.org/v1/v1/events/109697"
+        },
+        {
+            "event_id": 110664,
+            "event_title": "2017 Huatulco CAMTRI Sprint Triathlon American Cup",
+            "event_slug": "2017_huatulco_camtri_sprint_triathlon_american_cup",
+            "event_edit_date": "2017-06-12T06:58:19+00:00",
+            "event_venue": "Huatulco",
+            "event_country": "Mexico",
+            "event_latitude": 17.09332,
+            "event_longitude": -96.6923,
+            "event_date": "2017-06-10",
+            "event_finish_date": "2017-06-10",
+            "event_country_isoa2": "MX",
+            "event_country_noc": "MEX",
+            "event_region_id": 11,
+            "event_country_id": 219,
+            "event_region_name": "Americas",
+            "event_categories": [
+                {
+                    "cat_name": "Continental Cup",
+                    "cat_id": 341,
+                    "cat_parent_id": null
+                }
+            ],
+            "event_specifications": [
+                {
+                    "cat_name": "Triathlon",
+                    "cat_id": 357,
+                    "cat_parent_id": null
+                },
+                {
+                    "cat_name": "Sprint",
+                    "cat_id": 376,
+                    "cat_parent_id": 357
+                }
+            ],
+            "event_flag": "https://f9ca11ef49c28681fc01-0acbf57e00c47a50e70a1acb89e86c89.ssl.cf1.rackcdn.com/images/icons/mx.png",
+            "event_listing": "https://www.triathlon.org/events/event/2017_huatulco_camtri_sprint_triathlon_american_cup",
+            "event_api_listing": "https://api.triathlon.org/v1/v1/events/110664"
+        },
+        {
+            "event_id": 110471,
+            "event_title": "2017 Weert ETU Triathlon European Cup",
+            "event_slug": "2017_weert_etu_triathlon_european_cup",
+            "event_edit_date": "2017-06-12T06:57:01+00:00",
+            "event_venue": "Weert",
+            "event_country": "Netherlands",
+            "event_latitude": 51.25748,
+            "event_longitude": 5.70405,
+            "event_date": "2017-06-11",
+            "event_finish_date": "2017-06-11",
+            "event_country_isoa2": "NL",
+            "event_country_noc": "NED",
+            "event_region_id": 10,
+            "event_country_id": 230,
+            "event_region_name": "Europe",
+            "event_categories": [
+                {
+                    "cat_name": "Continental Cup",
+                    "cat_id": 341,
+                    "cat_parent_id": null
+                }
+            ],
+            "event_specifications": [
+                {
+                    "cat_name": "Triathlon",
+                    "cat_id": 357,
+                    "cat_parent_id": null
+                },
+                {
+                    "cat_name": "Standard",
+                    "cat_id": 377,
+                    "cat_parent_id": 357
+                }
+            ],
+            "event_flag": "https://f9ca11ef49c28681fc01-0acbf57e00c47a50e70a1acb89e86c89.ssl.cf1.rackcdn.com/images/icons/nl.png",
+            "event_listing": "https://www.triathlon.org/events/event/2017_weert_etu_triathlon_european_cup",
+            "event_api_listing": "https://api.triathlon.org/v1/v1/events/110471"
+        },
+        {
+            "event_id": 121508,
+            "event_title": "2017 IRL Sprint Triathlon National Championships",
+            "event_slug": "2017_irl_national_triathlon_championships",
+            "event_edit_date": "2017-10-17T14:08:48+00:00",
+            "event_venue": "Derry",
+            "event_country": "Ireland",
+            "event_latitude": 54.99661,
+            "event_longitude": -7.30857,
+            "event_date": "2017-06-11",
+            "event_finish_date": "2017-06-11",
+            "event_country_isoa2": "IE",
+            "event_country_noc": "IRL",
+            "event_region_id": 10,
+            "event_country_id": 188,
+            "event_region_name": "Europe",
+            "event_categories": [],
+            "event_specifications": [
+                {
+                    "cat_name": "Triathlon",
+                    "cat_id": 357,
+                    "cat_parent_id": null
+                },
+                {
+                    "cat_name": "Sprint",
+                    "cat_id": 376,
+                    "cat_parent_id": 357
+                }
+            ],
+            "event_flag": "https://f9ca11ef49c28681fc01-0acbf57e00c47a50e70a1acb89e86c89.ssl.cf1.rackcdn.com/images/icons/ie.png",
+            "event_listing": "https://www.triathlon.org/events/event/2017_irl_national_triathlon_championships",
+            "event_api_listing": "https://api.triathlon.org/v1/v1/events/121508"
+        },
+        {
+            "event_id": 110665,
+            "event_title": "2017 Ottawa CAMTRI Sprint Triathlon Premium American Cup",
+            "event_slug": "2017_ottawa_camtri_triathlon_premium_american_cup",
+            "event_edit_date": "2017-06-19T16:03:26+00:00",
+            "event_venue": "Ottawa",
+            "event_country": "Canada",
+            "event_latitude": 45.42153,
+            "event_longitude": -75.69719,
+            "event_date": "2017-06-17",
+            "event_finish_date": "2017-06-17",
+            "event_country_isoa2": "CA",
+            "event_country_noc": "CAN",
+            "event_region_id": 11,
+            "event_country_id": 135,
+            "event_region_name": "Americas",
+            "event_categories": [
+                {
+                    "cat_name": "Continental Cup",
+                    "cat_id": 341,
+                    "cat_parent_id": null
+                }
+            ],
+            "event_specifications": [
+                {
+                    "cat_name": "Triathlon",
+                    "cat_id": 357,
+                    "cat_parent_id": null
+                },
+                {
+                    "cat_name": "Sprint",
+                    "cat_id": 376,
+                    "cat_parent_id": 357
+                },
+                {
+                    "cat_name": "Super Sprint",
+                    "cat_id": 378,
+                    "cat_parent_id": 357
+                }
+            ],
+            "event_flag": "https://f9ca11ef49c28681fc01-0acbf57e00c47a50e70a1acb89e86c89.ssl.cf1.rackcdn.com/images/icons/ca.png",
+            "event_listing": "https://www.triathlon.org/events/event/2017_ottawa_camtri_triathlon_premium_american_cup",
+            "event_api_listing": "https://api.triathlon.org/v1/v1/events/110665"
+        },
+        {
+            "event_id": 121690,
+            "event_title": "2017 BLR Sprint Triathlon National Championships",
+            "event_slug": "2017_blr_sprint_triathlon_national_championships",
+            "event_edit_date": "2017-06-17T00:00:00+00:00",
+            "event_venue": "Brest",
+            "event_country": "Belarus",
+            "event_latitude": 52.097621,
+            "event_longitude": 23.73405,
+            "event_date": "2017-06-17",
+            "event_finish_date": "2017-06-17",
+            "event_country_isoa2": "BY",
+            "event_country_noc": "BLR",
+            "event_region_id": 10,
+            "event_country_id": 118,
+            "event_region_name": "Europe",
+            "event_categories": [],
+            "event_specifications": [
+                {
+                    "cat_name": "Triathlon",
+                    "cat_id": 357,
+                    "cat_parent_id": null
+                },
+                {
+                    "cat_name": "Sprint",
+                    "cat_id": 376,
+                    "cat_parent_id": 357
+                }
+            ],
+            "event_flag": "https://f9ca11ef49c28681fc01-0acbf57e00c47a50e70a1acb89e86c89.ssl.cf1.rackcdn.com/images/icons/by.png",
+            "event_listing": "https://www.triathlon.org/events/event/2017_blr_sprint_triathlon_national_championships",
+            "event_api_listing": "https://api.triathlon.org/v1/v1/events/121690"
+        },
+        {
+            "event_id": 109698,
+            "event_title": "2017 Kitzbühel ETU Triathlon European Championships",
+            "event_slug": "2017_kitzbuehel_etu_triathlon_european_championships",
+            "event_edit_date": "2017-06-28T15:57:13+00:00",
+            "event_venue": "Kitzbühel",
+            "event_country": "Austria",
+            "event_latitude": 47.45474,
+            "event_longitude": 12.36705,
+            "event_date": "2017-06-18",
+            "event_finish_date": "2017-06-18",
+            "event_country_isoa2": "AT",
+            "event_country_noc": "AUT",
+            "event_region_id": 10,
+            "event_country_id": 112,
+            "event_region_name": "Europe",
+            "event_categories": [
+                {
+                    "cat_name": "Continental Championship",
+                    "cat_id": 340,
+                    "cat_parent_id": null
+                }
+            ],
+            "event_specifications": [
+                {
+                    "cat_name": "Triathlon",
+                    "cat_id": 357,
+                    "cat_parent_id": null
+                },
+                {
+                    "cat_name": "Sprint",
+                    "cat_id": 376,
+                    "cat_parent_id": 357
+                },
+                {
+                    "cat_name": "Standard",
+                    "cat_id": 377,
+                    "cat_parent_id": 357
+                },
+                {
+                    "cat_name": "4xMixed Relay",
+                    "cat_id": 380,
+                    "cat_parent_id": 357
+                },
+                {
+                    "cat_name": "Paratriathlon",
+                    "cat_id": 381,
+                    "cat_parent_id": 357
+                }
+            ],
+            "event_flag": "https://f9ca11ef49c28681fc01-0acbf57e00c47a50e70a1acb89e86c89.ssl.cf1.rackcdn.com/images/icons/at.png",
+            "event_listing": "https://www.triathlon.org/events/event/2017_kitzbuehel_etu_triathlon_european_championships",
+            "event_api_listing": "https://api.triathlon.org/v1/v1/events/109698"
+        },
+        {
+            "event_id": 111618,
+            "event_title": "2017 Gamagori NTT ASTC Sprint Triathlon Asian Cup",
+            "event_slug": "2017_gamagori_astc_sprint_triathlon_asian_cup",
+            "event_edit_date": "2017-07-07T07:05:56+00:00",
+            "event_venue": "Gamagori",
+            "event_country": "Japan",
+            "event_latitude": 34.8265,
+            "event_longitude": 137.21952,
+            "event_date": "2017-06-18",
+            "event_finish_date": "2017-06-18",
+            "event_country_isoa2": "JP",
+            "event_country_noc": "JPN",
+            "event_region_id": 13,
+            "event_country_id": 192,
+            "event_region_name": "Asia",
+            "event_categories": [
+                {
+                    "cat_name": "Continental Cup",
+                    "cat_id": 341,
+                    "cat_parent_id": null
+                }
+            ],
+            "event_specifications": [
+                {
+                    "cat_name": "Triathlon",
+                    "cat_id": 357,
+                    "cat_parent_id": null
+                },
+                {
+                    "cat_name": "Sprint",
+                    "cat_id": 376,
+                    "cat_parent_id": 357
+                },
+                {
+                    "cat_name": "Super Sprint",
+                    "cat_id": 378,
+                    "cat_parent_id": 357
+                }
+            ],
+            "event_flag": "https://f9ca11ef49c28681fc01-0acbf57e00c47a50e70a1acb89e86c89.ssl.cf1.rackcdn.com/images/icons/jp.png",
+            "event_listing": "https://www.triathlon.org/events/event/2017_gamagori_astc_sprint_triathlon_asian_cup",
+            "event_api_listing": "https://api.triathlon.org/v1/v1/events/111618"
+        },
+        {
+            "event_id": 121905,
+            "event_title": "2017 ISL Triathlon National Championships",
+            "event_slug": "2017_isl_triathlon_national_championships",
+            "event_edit_date": "2017-06-18T00:00:00+00:00",
+            "event_venue": "Laugarvatn",
+            "event_country": "Iceland",
+            "event_latitude": 64.217726,
+            "event_longitude": -20.732074,
+            "event_date": "2017-06-18",
+            "event_finish_date": "2017-06-18",
+            "event_country_isoa2": "IS",
+            "event_country_noc": "ISL",
+            "event_region_id": 10,
+            "event_country_id": 183,
+            "event_region_name": "Europe",
+            "event_categories": [],
+            "event_specifications": [
+                {
+                    "cat_name": "Triathlon",
+                    "cat_id": 357,
+                    "cat_parent_id": null
+                },
+                {
+                    "cat_name": "Standard",
+                    "cat_id": 377,
+                    "cat_parent_id": 357
+                }
+            ],
+            "event_flag": "https://f9ca11ef49c28681fc01-0acbf57e00c47a50e70a1acb89e86c89.ssl.cf1.rackcdn.com/images/icons/is.png",
+            "event_listing": "https://www.triathlon.org/events/event/2017_isl_triathlon_national_championships",
+            "event_api_listing": "https://api.triathlon.org/v1/v1/events/121905"
+        },
+        {
+            "event_id": 109699,
+            "event_title": "2017 Düsseldorf ETU Sprint Triathlon European Championships",
+            "event_slug": "2017_duesseldorf_etu_sprint_triathlon_european_championships",
+            "event_edit_date": "2017-06-29T12:19:29+00:00",
+            "event_venue": "Düsseldorf",
+            "event_country": "Germany",
+            "event_latitude": 51.22774,
+            "event_longitude": 6.77346,
+            "event_date": "2017-06-24",
+            "event_finish_date": "2017-06-25",
+            "event_country_isoa2": "DE",
+            "event_country_noc": "GER",
+            "event_region_id": 10,
+            "event_country_id": 170,
+            "event_region_name": "Europe",
+            "event_categories": [
+                {
+                    "cat_name": "Continental Championship",
+                    "cat_id": 340,
+                    "cat_parent_id": null
+                }
+            ],
+            "event_specifications": [
+                {
+                    "cat_name": "Triathlon",
+                    "cat_id": 357,
+                    "cat_parent_id": null
+                },
+                {
+                    "cat_name": "Sprint",
+                    "cat_id": 376,
+                    "cat_parent_id": 357
+                }
+            ],
+            "event_flag": "https://f9ca11ef49c28681fc01-0acbf57e00c47a50e70a1acb89e86c89.ssl.cf1.rackcdn.com/images/icons/de.png",
+            "event_listing": "https://www.triathlon.org/events/event/2017_duesseldorf_etu_sprint_triathlon_european_championships",
+            "event_api_listing": "https://api.triathlon.org/v1/v1/events/109699"
+        },
+        {
+            "event_id": 110499,
+            "event_title": "2017 Bled ETU Triathlon Junior European Cup",
+            "event_slug": "2017_ljubljana_etu_triathlon_junior_european_cup",
+            "event_edit_date": "2017-06-24T16:30:21+00:00",
+            "event_venue": "Bled",
+            "event_country": "Slovenia",
+            "event_latitude": 46.36833,
+            "event_longitude": 14.11458,
+            "event_date": "2017-06-24",
+            "event_finish_date": "2017-06-24",
+            "event_country_isoa2": "SI",
+            "event_country_noc": "SLO",
+            "event_region_id": 10,
+            "event_country_id": 266,
+            "event_region_name": "Europe",
+            "event_categories": [
+                {
+                    "cat_name": "Junior Continental Cup",
+                    "cat_id": 342,
+                    "cat_parent_id": null
+                }
+            ],
+            "event_specifications": [
+                {
+                    "cat_name": "Triathlon",
+                    "cat_id": 357,
+                    "cat_parent_id": null
+                },
+                {
+                    "cat_name": "Sprint",
+                    "cat_id": 376,
+                    "cat_parent_id": 357
+                }
+            ],
+            "event_flag": "https://f9ca11ef49c28681fc01-0acbf57e00c47a50e70a1acb89e86c89.ssl.cf1.rackcdn.com/images/icons/si.png",
+            "event_listing": "https://www.triathlon.org/events/event/2017_ljubljana_etu_triathlon_junior_european_cup",
+            "event_api_listing": "https://api.triathlon.org/v1/v1/events/110499"
+        },
+        {
+            "event_id": 110666,
+            "event_title": "2017 Ibarra CAMTRI Triathlon American Cup",
+            "event_slug": "2017_ibarra_camtri_triathlon_american_cup",
+            "event_edit_date": "2017-11-20T11:38:58+00:00",
+            "event_venue": "Laguna de Yahuarcocha - Ibarra",
+            "event_country": "Ecuador",
+            "event_latitude": 0.37194,
+            "event_longitude": -78.10056,
+            "event_date": "2017-06-25",
+            "event_finish_date": "2017-06-25",
+            "event_country_isoa2": "EC",
+            "event_country_noc": "ECU",
+            "event_region_id": 11,
+            "event_country_id": 157,
+            "event_region_name": "Americas",
+            "event_categories": [
+                {
+                    "cat_name": "Continental Cup",
+                    "cat_id": 341,
+                    "cat_parent_id": null
+                }
+            ],
+            "event_specifications": [
+                {
+                    "cat_name": "Triathlon",
+                    "cat_id": 357,
+                    "cat_parent_id": null
+                },
+                {
+                    "cat_name": "Standard",
+                    "cat_id": 377,
+                    "cat_parent_id": 357
+                }
+            ],
+            "event_flag": "https://f9ca11ef49c28681fc01-0acbf57e00c47a50e70a1acb89e86c89.ssl.cf1.rackcdn.com/images/icons/ec.png",
+            "event_listing": "https://www.triathlon.org/events/event/2017_ibarra_camtri_triathlon_american_cup",
+            "event_api_listing": "https://api.triathlon.org/v1/v1/events/110666"
+        },
+        {
+            "event_id": 111619,
+            "event_title": "2017 Osaka NTT ASTC Sprint Triathlon Asian Cup",
+            "event_slug": "2017_osaka_astc_sprint_triathlon_asian_cup",
+            "event_edit_date": "2017-07-07T07:06:25+00:00",
+            "event_venue": "Osaka",
+            "event_country": "Japan",
+            "event_latitude": 34.6864,
+            "event_longitude": 135.52672,
+            "event_date": "2017-06-25",
+            "event_finish_date": "2017-06-25",
+            "event_country_isoa2": "JP",
+            "event_country_noc": "JPN",
+            "event_region_id": 13,
+            "event_country_id": 192,
+            "event_region_name": "Asia",
+            "event_categories": [
+                {
+                    "cat_name": "Continental Cup",
+                    "cat_id": 341,
+                    "cat_parent_id": null
+                }
+            ],
+            "event_specifications": [
+                {
+                    "cat_name": "Triathlon",
+                    "cat_id": 357,
+                    "cat_parent_id": null
+                },
+                {
+                    "cat_name": "Sprint",
+                    "cat_id": 376,
+                    "cat_parent_id": 357
+                }
+            ],
+            "event_flag": "https://f9ca11ef49c28681fc01-0acbf57e00c47a50e70a1acb89e86c89.ssl.cf1.rackcdn.com/images/icons/jp.png",
+            "event_listing": "https://www.triathlon.org/events/event/2017_osaka_astc_sprint_triathlon_asian_cup",
+            "event_api_listing": "https://api.triathlon.org/v1/v1/events/111619"
+        }
+    ]
+}
