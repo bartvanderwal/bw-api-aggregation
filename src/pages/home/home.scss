@@ -1,3 +1,19 @@
 page-home {
-
+    img.event {
+        width: 100%;
+        transition: width 1s ease-in-out;
+    }
+    img.event:hover {
+        width: 110%;
+        transition: width 1s ease-in-out;
+    }
+    caption {
+        display: block;
+        margin: 10px 0px 25px;
+        font-size: 14px;
+    }
+    caption:before {
+        content: 'credits: ';
+        font-style: italic;
+    }
 }

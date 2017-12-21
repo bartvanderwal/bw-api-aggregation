@@ -13,6 +13,13 @@ export class EventPhoto {
   thumbnail: string // "https://www.triathlon.org/uploads/webgalleries/109656/discoveryelitetriworlcupcpt17_beadle-812__medium.jpg"
 }
 
+export class EventsViewModel {
+  events: Array<TriathlonEvent>
+  photos: Array<EventPhoto>
+  nrOfEvents: number
+  nrOfPhotos: number
+}
+
 export class EventPhotoData {
   total: number
   data: Array<EventPhoto>
@@ -37,4 +44,5 @@ export class TriathlonEvent {
   /* Toegevoegd BW voor ViewModel */
   mainImage: EventPhoto
   index: number
+  event_index: number
 }

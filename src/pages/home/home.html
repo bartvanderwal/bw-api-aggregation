@@ -16,7 +16,13 @@
   <h2>Events</h2>
   <p>Total: <span style="color: darkblue;">{{ total }}</span>.</p>
   <ul>
-    <li *ngFor="let event of events">{{ event.event_id }}</li>
+    <li *ngFor="let event of events">{{ event | json }}</li>
   </ul>
-  <!-- <pre>events: {{ events | json }}</pre> -->
+  <a *ngFor="let photo of photos" [href]="photo.image_url">
+    <picture>
+      <img class="event" [src]="photo.thumbnail" [alt]="photo.description" [title]="photo.description"/>
+      <caption>{{ photo.image_credit || decodeHtmlEntity }}</caption>
+    </picture>
+  </a>
+  <pre>events: {{ events | json }}</pre>
 </ion-content>
